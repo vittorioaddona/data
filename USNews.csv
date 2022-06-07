@@ -1,0 +1,1168 @@
+College,GradRate,SFRatio,AdmisRate,FacultyPhD,Type,Region,State,MathSAT,VerbalSAT,ACT
+Alaska Pacific University,15,11.9,76,76,Private,West,AK,490,482,20
+University of Alaska Southeast,39,9.5,80,39,Public,West,AK,,,
+Talladega College,46,15.5,34,56,Private,South,AL,,,
+Miles College,15,16.7,62,35,Private,South,AL,,,
+University of North Alabama,76,19.4,65,62,Public,South,AL,,,
+University of Montevallo,51,18.9,66,72,Public,South,AL,,,21
+Alabama Agri. & Mech. Univ.,40,14.3,68,53,Public,South,AL,,,17
+University of Alabama at Huntsville,38,12.7,70,83,Public,South,AL,542,468,24
+University of Alabama at Birmingham,33,6.7,70,96,Public,South,AL,,,21
+Alabama State University,15,18.7,71,48,Public,South,AL,,,
+Judson College,43,17.9,73,70,Private,South,AL,,,22
+Birmingham-Southern College,72,14,73,74,Private,South,AL,575,525,26
+University of Mobile,52,16.6,73,59,Private,South,AL,,,22
+University of Alabama at Tuscaloosa,50,17.3,79,80,Public,South,AL,,,23
+Livingston University,36,18.8,79,58,Public,South,AL,,,19
+Tuskegee University,65,12.2,81,70,Private,South,AL,,,
+Samford University,61,14.7,83,74,Private,South,AL,,,
+Huntingdon College,44,11.4,86,63,Private,South,AL,513,446,23
+Jacksonville State University,33,20.1,87,66,Public,South,AL,,,20
+Troy State University at Troy,48,23,87,50,Public,South,AL,510,470,20
+Auburn University at Montgomery,42,18.1,88,74,Public,South,AL,,,21
+Spring Hill College,70,14.4,90,80,Private,South,AL,525,480,24
+Auburn University-Main Campus,69,16.7,90,85,Public,South,AL,575,501,24
+University of South Alabama,43,13.3,91,80,Public,South,AL,,,23
+Faulkner University,55,32.8,93,52,Private,South,AL,,,20
+Stillman College,47,14.3,98,47,Private,South,AL,,,
+Arkansas College (Lyon College),54,12.6,47,79,Private,South,AR,,,25
+Harding University,73,17.7,62,71,Private,South,AR,530,490,24
+John Brown University,75,13.3,67,68,Private,South,AR,509,484,23
+University of Arkansas at Little Rock,19,14.7,75,61,Public,South,AR,,,19
+Ouachita Baptist University,65,13.3,85,63,Private,South,AR,,,
+University of Central Arkansas,36,20.5,86,71,Public,South,AR,,,22
+Hendrix College,63,13.1,88,82,Private,South,AR,564,525,26
+University of Arkansas at Fayetteville,39,14.8,96,73,Public,South,AR,,,
+Arkansas State University,39,20,98,71,Public,South,AR,,,21
+Arkansas Tech University,48,19.6,100,57,Public,South,AR,,,21
+Southern Arkansas University,33,17,100,40,Public,South,AR,,,
+Henderson State University,68,19,100,58,Public,South,AR,,,
+Grand Canyon University,81,14.2,79,56,Private,West,AZ,485,441,22
+Arizona State University Main campus,48,18.9,81,88,Public,West,AZ,521,453,23
+Northern Arizona University,41,21.7,84,78,Public,West,AZ,495,444,22
+University of Arizona,49,19.6,87,91,Public,West,AZ,526,462,23
+California Institute of Technology,83,6.5,27,100,Private,West,CA,750,660,
+Sonoma State University,40,16.1,36,79,Public,West,CA,482,486,22
+Pomona College,91,8.9,37,94,Private,West,CA,700,640,31
+Claremont McKenna College,87,9.6,41,99,Private,West,CA,670,600,28
+University of California at Berkeley,78,15.8,42,93,Public,West,CA,654,564,
+Harvey Mudd College,100,8.2,42,100,Private,West,CA,740,630,
+California Lutheran University,60,12.4,44,72,Private,West,CA,495,436,21
+University of California at Los Angeles,77,11.8,47,97,Public,West,CA,621,520,
+California Polytechnic-San Luis,59,19.8,49,72,Public,West,CA,547,455,21
+California State Univ. at Los Angeles,49,20.4,49,53,Public,West,CA,,,
+United States International University,23,15.7,52,90,Private,West,CA,464,431,19
+Pepperdine University,66,11.6,53,95,Private,West,CA,585,514,25
+Pitzer College,73,10.4,56,100,Private,West,CA,590,560,26
+Occidental College,79,10.5,57,91,Private,West,CA,570,510,
+University of California at San Diego,66,13.9,59,100,Public,West,CA,616,515,26
+University of La Verne,47,14.1,61,66,Private,West,CA,472,431,22
+Holy Names College,44,7.8,61,75,Private,West,CA,450,448,
+St. Mary's College of California,78,16.1,61,88,Private,West,CA,549,483,
+Humboldt State University,65,16.4,63,80,Public,West,CA,501,455,22
+Whittier College,52,13.6,64,84,Private,West,CA,507,454,
+California Poly-Pomona,50,18.5,65,73,Public,West,CA,,,
+San Francisco State University,55,17.4,66,75,Public,West,CA,444,372,19
+California State Univ. at Bakersfield,24,13.4,68,82,Public,West,CA,450,392,21
+University of California at Irvine,66,16.1,69,96,Public,West,CA,574,455,
+Santa Clara University,100,13.9,69,88,Private,West,CA,,,
+University of Judaism,55,7.2,69,100,Private,West,CA,551,489,
+University of Southern California,68,11.4,70,90,Private,West,CA,592,498,25
+University of San Diego,66,15.6,70,93,Private,West,CA,548,490,
+California State Univ. at San Bernardino,49,20.3,70,93,Public,West,CA,440,399,
+Thomas Aquinas College,71,10.9,70,68,Private,West,CA,589,583,
+California State University at Sacramento,47,19.2,70,79,Public,West,CA,476,408,
+Loyola Marymount University,84,14.2,71,84,Private,West,CA,549,485,
+Pacific Union College,69,12.3,71,48,Private,West,CA,,,22
+Concordia University,55,13.1,72,55,Private,West,CA,485,420,22
+California State University at Fresno,61,21.2,73,90,Public,West,CA,,,
+Scripps College,73,8.2,74,95,Private,West,CA,590,560,26
+University of San Francisco,62,13.6,75,86,Private,West,CA,514,463,21
+California State Univ. at Fullerton,56,19.9,75,88,Public,West,CA,476,395,21
+San Diego State University,41,19.5,75,87,Public,West,CA,457,394,20
+Westmont College,87,14.9,75,77,Public,West,CA,550,501,24
+California State Univ. at Long Beach,48,20.3,75,80,Public,West,CA,456,382,21
+College of Notre Dame,43,10.4,77,77,Private,West,CA,,,
+University of California at Riverside,62,13.4,77,98,Public,West,CA,542,440,23
+San Jose State University,46,17.4,79,72,Public,West,CA,467,371,19
+Fresno Pacific College,54,10.5,79,59,Private,West,CA,532,476,22
+University of California at Santa Cruz,59,21.3,80,94,Public,West,CA,554,505,
+California State Univ. at Dominguez Hills,24,18.1,80,90,Public,West,CA,,,
+Biola University,36,16.6,80,67,Private,West,CA,500,440,22
+La Sierra University,49,12.6,80,69,Private,West,CA,468,420,20
+Chapman University,47,12.8,80,72,Private,West,CA,501,456,22
+Dominican College of San Rafael,50,11.6,81,56,Private,West,CA,452,432,
+University of the Pacific,65,11.2,81,87,Private,West,CA,531,444,
+University of Redlands,73,8.9,81,81,Private,West,CA,,,
+Mount St. Mary's College,72,11.9,82,53,Private,West,CA,506,466,21
+Point Loma Nazarene College,54,16.1,85,71,Private,West,CA,472,425,21
+University of California at Santa Barbara,69,18.9,85,96,Public,West,CA,547,459,
+Pacific Christian College,67,10.7,85,38,Private,West,CA,474,426,22
+California Baptist College,43,13,85,56,Private,West,CA,441,395,19
+Southern California College,43,18.6,88,63,Private,West,CA,466,443,21
+Woodbury University,54,13.5,90,28,Private,West,CA,441,381,20
+United States Air Force Academy,88,8.2,17,40,Public,West,CO,,,
+University of Colorado at Denver,24,18.1,47,89,Public,West,CO,529,478,23
+Colorado College,84,11.3,49,85,Private,West,CO,,,
+Western State College of Colorado,52,19.4,60,76,Public,West,CO,470,420,21
+University of Colorado at Boulder,66,19.9,66,90,Public,West,CO,,,
+Colorado State University,59,19.2,67,87,Public,West,CO,545,479,25
+University of Denver,67,15.9,67,84,Private,West,CO,540,470,24
+University of Northern Colorado,40,21.5,73,75,Public,West,CO,480,440,22
+Regis University,53,14.8,82,90,Private,West,CO,487,442,22
+Fort Lewis College,46,19.1,82,89,Public,West,CO,,,
+Adams State College,60,27.9,84,63,Public,West,CO,,,21
+Metropolitan State College,25,21.1,85,75,Public,West,CO,448,407,20
+University of Southern Colorado,36,19.4,88,63,Public,West,CO,480,428,20
+Mesa State College,59,28.8,92,48,Public,West,CO,451,400,20
+United States Coast Guard Academy,71,8.3,9,31,Public,NorthEast,CT,644,542,
+Yale University,99,5.8,23,96,Private,NorthEast,CT,,,
+Wesleyan University,92,12.1,41,90,Private,NorthEast,CT,660,620,29
+Connecticut College,91,10.7,51,86,Private,NorthEast,CT,,,
+Quinnipiac College,86,12,58,63,Private,NorthEast,CT,,,
+Trinity College,91,10.4,59,91,Private,NorthEast,CT,,,
+Central Connecticut State University,49,16.7,61,69,Public,NorthEast,CT,457,414,
+Eastern Connecticut State University,50,16.9,69,71,Public,NorthEast,CT,444,411,
+Southern Connecticut State University,45,15.8,69,62,Public,NorthEast,CT,430,400,
+Fairfield University,94,15.1,70,86,Private,NorthEast,CT,560,498,25
+University of Bridgeport,51,7.9,74,76,Private,NorthEast,CT,489,422,
+University of Connecticut at Storrs,71,16,74,89,Public,NorthEast,CT,551,481,
+University of Hartford,66,10.7,80,61,Private,NorthEast,CT,506,457,
+Sacred Heart University,82,14.8,82,71,Private,NorthEast,CT,480,420,
+Saint Joseph College,76,11.2,83,87,Private,NorthEast,CT,,,
+University of New Haven,79,15.6,86,79,Private,NorthEast,CT,495,434,
+Albertus Magnus College,63,11.5,96,90,Private,NorthEast,CT,460,430,23
+Georgetown University,95,7.2,26,91,Private,South,DC,,,
+Howard University,46,7.5,32,78,Private,South,DC,457,426,20
+George Washington University,72,7.6,64,92,Private,South,DC,,,
+Trinity College,96,8.3,77,89,Private,South,DC,470,480,22
+Catholic University of America,75,9.3,84,90,Private,South,DC,,,
+Delaware State College,26,13.7,71,60,Public,South,DE,,,
+University of Delaware,75,18.3,73,82,Private,South,DE,,,
+Goldey Beacom College,36,27.6,74,25,Private,South,DE,486,425,
+Wesley College,84,14.4,82,52,Private,South,DE,413,387,
+Wilmington College,56,12.5,100,46,Private,South,DE,,,
+University of Central Florida,46,22.2,42,80,Public,South,FL,533,464,23
+Flagler College,69,18.1,51,52,Private,South,FL,513,476,23
+Webber College,90,15.1,51,53,Private,South,FL,370,437,20
+University of South Florida,47,17,62,84,Public,South,FL,553,492,23
+Florida International University,66,13.9,63,81,Public,South,FL,543,476,23
+Rollins College,90,13.3,65,81,Private,South,FL,557,502,25
+Florida Atlantic University,48,15.6,66,90,Public,South,FL,528,462,22
+University of North Florida,47,17.8,70,82,Public,South,FL,533,484,22
+Bethune Cookman College,58,13.8,70,48,Private,South,FL,408,367,16
+Warner Southern College,42,14.4,70,53,Private,South,FL,403,359,17
+University of Florida,66,13.4,71,88,Public,South,FL,,,
+Lynn University,65,19,74,69,Private,South,FL,450,440,21
+Florida State University,58,23.1,75,80,Public,South,FL,,,
+Florida Memorial College,35,17.1,75,38,Private,South,FL,,,
+Nova Southeastern University,23,20.4,75,90,Private,South,FL,477,428,
+Florida Southern College,68,17.4,75,65,Private,South,FL,505,478,23
+University of Miami,59,5.9,76,82,Private,South,FL,,,
+Eckerd College,59,12.8,78,82,Private,South,FL,559,517,25
+Stetson University,73,12.5,79,85,Private,South,FL,,,
+Barry University,72,12.6,79,76,Private,South,FL,470,430,20
+University of West Florida,53,23.4,81,83,Public,South,FL,496,452,22
+Florida Institute of Technology,57,10.6,81,90,Private,South,FL,596,500,
+Embry Riddle Aeronautical University,44,16.5,82,37,Private,South,FL,544,461,25
+Morris Brown College,21,15.7,23,49,Private,South,GA,450,400,19
+Spelman College,65,12.5,33,73,Private,South,GA,515,487,23
+Morehouse College,83,17.8,45,71,Private,South,GA,538,488,24
+Paine College,27,10.9,48,48,Private,South,GA,,,
+Emory University,96,5,49,97,Private,South,GA,650,570,28
+Clark Atlanta University,53,14.9,56,63,Private,South,GA,404,400,19
+Georgia Institute of Technology,70,19.3,58,92,Public,South,GA,,,
+Georgia State University,34,19,62,87,Public,South,GA,,,
+Savannah Coll. of Art and Design,55,16.1,62,14,Private,South,GA,515,490,23
+Georgia Southern University,46,19.7,65,60,Public,South,GA,445,399,
+Berry College,63,16.3,66,80,Private,South,GA,,,
+North Georgia College,53,17.5,67,60,Public,South,GA,,,
+University of Georgia,63,14.7,70,88,Public,South,GA,571,515,
+Fort Valley State College,39,13.9,71,59,Public,South,GA,,,
+West Georgia College,40,19.2,71,59,Public,South,GA,456,412,
+Mercer University,91,9.2,73,93,Private,South,GA,529,473,24
+LaGrange College,75,12.5,73,77,Private,South,GA,449,405,
+Brenau University,49,13.7,75,71,Private,South,GA,459,471,
+Albany State College,62,17,75,65,Public,South,GA,,,
+Kennesaw State College,21,19.8,76,62,Public,South,GA,474,435,
+Southern College of Technology,36,17.3,77,52,Public,South,GA,512,428,22
+Columbus College,32,16.5,78,61,Public,South,GA,470,420,
+Covenant College,56,19,78,73,Private,South,GA,536,512,24
+Augusta College,38,18.9,80,65,Public,South,GA,439,398,
+Oglethorpe University,67,13.1,82,91,Private,South,GA,570,549,27
+Shorter College,58,13.2,82,62,Private,South,GA,,,
+Georgia Southwestern College,26,18.1,83,50,Public,South,GA,446,404,20
+Agnes Scott College,59,7.7,84,92,Private,South,GA,,,
+Armstrong State College,88,10.5,84,45,Public,South,GA,471,436,
+Piedmont College,31,13.2,85,89,Private,South,GA,499,452,
+Savannah State College,48,19,85,60,Public,South,GA,375,334,17
+Brewton-Parker College,18,12.6,86,62,Private,South,GA,393,373,
+Valdosta State University,45,20,88,67,Public,South,GA,442,399,21
+Wesleyan College,52,7.6,94,68,Private,South,GA,492,521,23
+Georgia College,52,21.4,96,70,Public,South,GA,428,383,19
+University of Hawaii at Hilo,31,15.8,52,72,Public,West,HI,446,404,
+University of Hawaii at Manoa,54,11.8,73,85,Public,West,HI,537,441,
+Teikyo Westmar University,51,12,68,46,Private,Midwest,IA,,,19
+Grinnell College,83,9.5,68,88,Private,Midwest,IA,642,602,29
+Upper Iowa University,78,17.4,68,69,Private,Midwest,IA,,,22
+Coe College,67,12.7,74,73,Private,Midwest,IA,560,500,25
+Clarke College,74,11,74,67,Private,Midwest,IA,,,21
+Teikyo Marycrest University,69,12.3,74,44,Private,Midwest,IA,,,20
+Graceland College,47,23.6,75,51,Private,Midwest,IA,502,447,22
+Loras College,70,14.2,78,61,Private,Midwest,IA,,,23
+Saint Ambrose University,70,14.1,80,56,Private,Midwest,IA,,,22
+Buena Vista College,78,8.8,80,62,Private,Midwest,IA,526,493,24
+University of Northern Iowa,77,16.3,82,78,Public,Midwest,IA,,,23
+Simpson College,70,15.8,86,66,Private,Midwest,IA,,,
+Mount Mercy College,64,11.3,86,44,Private,Midwest,IA,,,
+Cornell College,64,12.2,86,71,Private,Midwest,IA,560,510,25
+Central College,67,13.5,87,76,Private,Midwest,IA,,,24
+Wartburg College,67,12.4,87,66,Private,Midwest,IA,557,478,24
+Mount Saint Clare College,21,13.6,87,32,Private,Midwest,IA,,,21
+Iowa State University,65,19.2,88,81,Public,Midwest,IA,,,
+Briar Cliff College,58,13.1,90,39,Private,Midwest,IA,410,385,22
+Luther College,77,13.8,90,73,Private,Midwest,IA,590,520,25
+William Penn College,40,13.3,90,35,Private,Midwest,IA,,,
+Morningside College,56,13,91,48,Private,Midwest,IA,,,22
+Drake University,77,15,92,88,Private,Midwest,IA,540,490,25
+Dordt College,87,12.5,93,61,Private,Midwest,IA,,,23
+Northwestern College,68,14.9,94,68,Private,Midwest,IA,,,22
+Grand View College,32,12.6,96,32,Private,Midwest,IA,,,20
+University of Dubuque,45,16.5,97,85,Private,Midwest,IA,480,430,22
+Lewis-Clark State College,44,12.1,55,60,Public,West,ID,445,397,21
+Albertson College,55,9.4,82,67,Private,West,ID,524,487,24
+Idaho State University,33,16.5,82,67,Public,West,ID,,,21
+Northwest Nazarene College,58,14.8,83,59,Private,West,ID,,,23
+Boise State University,25,17,85,59,Public,West,ID,468,431,21
+University of Idaho,45,13.5,89,82,Public,West,ID,517,463,23
+Northwestern University,92,6.8,42,96,Private,Midwest,IL,670,600,29
+Illinois Wesleyan University,83,12.9,44,77,Private,Midwest,IL,617,534,28
+University of Chicago,90,5.3,47,99,Private,Midwest,IL,,,
+Chicago State University,18,15.6,48,47,Public,Midwest,IL,,,18
+McKendree College,52,17.7,55,70,Private,Midwest,IL,,,21
+Trinity College,28,21.9,63,54,Private,Midwest,IL,,,
+Wheaton College,85,12.7,64,81,Private,Midwest,IL,,,
+Lake Forest College,77,10.7,65,91,Private,Midwest,IL,,,
+Blackburn College,51,14.3,67,76,Private,Midwest,IL,,,21
+Northern Illinois University,56,17.3,67,73,Public,Midwest,IL,,,22
+National-Louis University,71,18.3,68,62,Private,Midwest,IL,,,17
+University of Illinois at Chicago,34,10,68,82,Public,Midwest,IL,,,21
+Quincy University,80,16.3,69,69,Private,Midwest,IL,528,496,23
+Northeastern Illinois University,21,15.1,72,78,Public,Midwest,IL,,,17
+College of Saint Francis,80,17.5,72,52,Private,Midwest,IL,,,
+Judson College,56,10.6,73,34,Private,Midwest,IL,,,22
+Barat College,71,9.7,74,57,Private,Midwest,IL,,,
+DePaul University,63,16.1,74,69,Private,Midwest,IL,554,511,25
+Rosary College,81,12.9,74,79,Private,Midwest,IL,,,
+MacMurray College,59,10.8,75,49,Private,Midwest,IL,,,21
+Greenville College,60,14.3,76,57,Private,Midwest,IL,,,22
+Eastern Illinois University,76,16.2,76,62,Public,Midwest,IL,,,22
+Concordia University,75,12.1,76,56,Private,Midwest,IL,,,23
+Illinois State University,54,21,77,77,Public,Midwest,IL,,,22
+Western Illinois University,55,17.2,77,77,Public,Midwest,IL,,,22
+Illinois Institute of Technology,56,12.3,77,80,Private,Midwest,IL,603,499,25
+North Park College,74,13.1,78,76,Private,Midwest,IL,526,466,22
+University of Illinois - Urbana,81,17.4,78,87,Public,Midwest,IL,617,522,27
+North Central College,76,16.4,78,73,Private,Midwest,IL,556,483,25
+Eureka College,53,10.6,81,62,Private,Midwest,IL,,,22
+Knox College,79,12.7,81,88,Private,Midwest,IL,570,530,25
+Saint Xavier University,55,13.7,82,87,Private,Midwest,IL,,,20
+Loyola University Chicago,65,6.2,83,94,Private,Midwest,IL,529,482,24
+Monmouth College,56,11.6,84,91,Private,Midwest,IL,470,470,23
+Southern Illinois University at Edwardsville,43,16.5,86,76,Public,Midwest,IL,,,21
+Roosevelt University,77,12.2,87,75,Private,Midwest,IL,,,19
+Millikin University,75,11.4,87,60,Private,Midwest,IL,541,511,24
+Illinois College,52,15.6,88,75,Private,Midwest,IL,545,470,23
+Augustana College,71,12.7,88,78,Private,Midwest,IL,,,25
+Columbia College,41,13.4,89,18,Private,Midwest,IL,,,
+Bradley University,85,14.4,91,75,Private,Midwest,IL,590,530,25
+Lewis University,61,14.3,91,36,Private,Midwest,IL,,,20
+Illinois Benedictine College,75,11.6,92,81,Private,Midwest,IL,,,23
+Olivet Nazarene University,54,14.6,94,39,Private,Midwest,IL,,,
+Kendall College,80,15.9,100,24,Private,Midwest,IL,420,450,18
+University of Notre Dame,97,13.1,48,96,Private,Midwest,IN,650,570,
+Rose-Hulman Institute of Technology,97,13.6,55,91,Private,Midwest,IN,670,540,30
+Indiana Wesleyan University,34,39.8,58,49,Private,Midwest,IN,455,408,21
+Taylor University,98,14.2,62,60,Private,Midwest,IN,579,513,25
+Marian College,61,10.4,70,38,Private,Midwest,IN,455,412,
+Earlham College,78,10.6,74,90,Private,Midwest,IN,570,550,25
+Saint Joseph's College,67,14.8,74,55,Private,Midwest,IN,494,423,22
+Anderson University,59,12.1,75,48,Private,Midwest,IN,462,423,21
+University of Evansville,77,15.8,78,60,Private,Midwest,IN,538,498,
+Saint Francis College,48,12.5,78,43,Private,Midwest,IN,450,410,21
+Wabash College,72,9.9,78,78,Private,Midwest,IN,,,
+Grace College and Seminary,64,15.3,78,53,Private,Midwest,IN,,,21
+Franklin College,60,12.5,79,54,Private,Midwest,IN,532,481,22
+Indiana Univ. Northwest,33,18.2,79,56,Public,Midwest,IN,,,
+Indiana Univ.-Purdue Univ. at Indianapolis,25,10.4,79,69,Public,Midwest,IN,428,388,19
+Indiana University at Bloomington,68,21.3,80,77,Public,Midwest,IN,530,466,24
+Manchester College,64,11.8,80,63,Private,Midwest,IN,508,442,22
+Saint Mary's College,98,9.9,83,74,Private,Midwest,IN,538,488,25
+DePauw University,82,11.1,83,78,Private,Midwest,IN,,,
+Hanover College,64,10.6,83,84,Private,Midwest,IN,541,486,24
+Valparaiso University,95,14.2,83,87,Private,Midwest,IN,,,
+Indiana Univ. at South Bend,33,14.4,83,69,Public,Midwest,IN,,,
+Indiana State University,40,16.6,84,72,Public,Midwest,IN,434,391,20
+Ball State University,51,17.7,85,69,Public,Midwest,IN,473,422,21
+University of Indianapolis,69,11.1,86,55,Private,Midwest,IN,487,432,21
+Purdue University at West Lafayette,67,18.2,86,86,Public,Midwest,IN,545,453,24
+Butler University,83,10.9,86,77,Private,Midwest,IN,544,484,25
+Saint Mary-of-the-Woods College,75,10.2,87,44,Private,Midwest,IN,422,392,20
+Tri-State University,65,12.8,87,53,Private,Midwest,IN,502,409,21
+University of Southern Indiana,38,22,90,56,Public,Midwest,IN,429,384,18
+Goshen College,72,9.9,90,51,Private,Midwest,IN,519,487,
+Indiana Univ.-Purdue Univ. at Fort Wayne,41,16,94,67,Public,Midwest,IN,,,
+Oakland City College,62,11.5,94,41,Private,Midwest,IN,,,
+Huntington College,47,11.8,96,76,Private,Midwest,IN,480,422,21
+Indiana Univ. at Kokomo,23,14.7,98,60,Public,Midwest,IN,415,387,
+Indiana Univ. Southeast,33,16.7,99,76,Public,Midwest,IN,,,
+Indiana Univ. East,24,13.8,100,52,Public,Midwest,IN,,,
+Ottawa University,46,14.5,64,47,Private,Midwest,KS,,,
+University of Kansas,57,13.7,65,88,Public,Midwest,KS,,,23
+Kansas State University,54,18.5,69,76,Public,Midwest,KS,,,
+McPherson College,48,9.8,70,54,Private,Midwest,KS,,,22
+Tabor College,53,10,71,55,Private,Midwest,KS,,,22
+Southwestern College,52,11.8,73,56,Private,Midwest,KS,,,21
+Friends University,49,25,77,55,Private,Midwest,KS,,,20
+Wichita State University,32,20.4,77,82,Public,Midwest,KS,,,21
+Sterling College,36,16.1,78,50,Private,Midwest,KS,441,402,22
+Baker University,65,11,80,58,Private,Midwest,KS,,,23
+Saint Mary College,53,8.2,84,50,Private,Midwest,KS,,,
+Bethel College,56,8.8,91,61,Private,Midwest,KS,,,22
+Pittsburg State University,58,23.2,93,52,Public,Midwest,KS,,,21
+Bethany College,48,11.6,93,62,Private,Midwest,KS,,,23
+Kansas Wesleyan University,68,12.4,98,63,Private,Midwest,KS,,,21
+Washburn University,53,13.8,98,82,Public,Midwest,KS,,,
+Benedictine College,58,14.1,98,64,Private,Midwest,KS,,,
+MidAmerica Nazarene College,49,15.4,100,33,Private,Midwest,KS,,,22
+Fort Hays State University,44,18.1,100,65,Public,Midwest,KS,,,
+Emporia State University,50,19.3,100,72,Public,Midwest,KS,,,20
+Berea College,57,13.2,33,77,Private,South,KY,514,465,22
+Alice Lloyd College,31,19.4,52,56,Private,South,KY,,,
+Kentucky State University,19,15,58,60,Public,South,KY,,,
+University of Louisville,31,11.1,64,84,Public,South,KY,,,21
+Campbellsville College,49,17.7,69,62,Private,South,KY,,,
+Spalding University,89,10.6,71,50,Private,South,KY,,,20
+University of Kentucky,52,12.2,73,95,Public,South,KY,,,25
+Western Kentucky University,45,19.1,73,66,Public,South,KY,,,
+Thomas More College,66,10.5,74,65,Private,South,KY,512,452,23
+Cumberland College,63,13,79,42,Private,South,KY,470,420,21
+Union College,64,14.1,79,60,Private,South,KY,440,390,20
+Brescia College,56,10.1,85,49,Private,South,KY,,,
+Kentucky Wesleyan College,62,11.3,85,57,Private,South,KY,450,410,22
+Northern Kentucky University,52,17.7,86,66,Public,South,KY,,,
+Murray State University,52,20.2,86,72,Public,South,KY,,,22
+Bellarmine College,84,13.1,88,74,Private,South,KY,515,474,23
+Centre College,74,11.4,88,95,Private,South,KY,575,534,27
+Morehead State University,52,19.9,88,58,Public,South,KY,,,20
+Eastern Kentucky University,39,19.8,94,82,Public,South,KY,,,19
+Georgetown College,55,13.3,95,73,Private,South,KY,,,22
+Transylvania University,70,12.1,96,81,Private,South,KY,564,532,26
+Pikeville College,61,13.4,99,48,Private,South,KY,,,
+Louisiana College,59,10.5,52,64,Private,South,LA,,,
+Dillard University,61,14.1,69,52,Private,South,LA,,,20
+Grambling State University,58,24.6,73,46,Public,South,LA,,,
+Tulane University,74,9.1,73,98,Private,South,LA,,,
+Louisiana State University at Baton Rouge,37,15.9,83,83,Public,South,LA,529,468,23
+Centenary College of Louisiana,66,11.3,88,86,Private,South,LA,550,500,25
+Our Lady of Holy Cross College,73,16.1,88,72,Private,South,LA,,,
+University of New Orleans,19,17.9,89,75,Public,South,LA,500,447,21
+Louisiana Tech University,45,20,89,66,Public,South,LA,,,22
+Loyola University,53,11.7,90,77,Private,South,LA,540,510,25
+Xavier University of Louisiana,49,14.4,91,67,Private,South,LA,469,438,21
+Nicholls State University,36,21.8,94,65,Public,South,LA,,,19
+Northeast Louisiana University,21,20.6,95,57,Public,South,LA,,,20
+Louisiana State University at Shreveport,35,18.1,96,62,Public,South,LA,,,
+McNeese State University,34,21.1,98,69,Public,South,LA,,,19
+University of Southwestern Louisiana,30,22.7,99,63,Public,South,LA,,,19
+Southern University and A & M College,33,15.9,99,50,Public,South,LA,,,17
+Southeastern Louisiana University,29,24.3,100,61,Public,South,LA,,,19
+Southern University at New Orleans,35,19.6,100,62,Public,South,LA,,,17
+Northwestern State University of Louisiana,33,29.5,100,67,Public,South,LA,,,20
+Harvard University,100,9.9,16,97,Private,NorthEast,MA,,,
+Amherst College,100,8.4,23,93,Private,NorthEast,MA,685,639,25
+Williams College,99,9,30,94,Private,NorthEast,MA,,,
+Massachusetts Institute of Technology,94,10.1,33,99,Private,NorthEast,MA,742,639,31
+Wellesley College,91,10.6,43,94,Private,NorthEast,MA,630,600,
+Boston College,90,16.6,47,95,Private,NorthEast,MA,,,
+Tufts University,92,10.3,47,99,Private,NorthEast,MA,,,
+Smith College,90,10.3,55,85,Private,NorthEast,MA,,,
+College of the Holy Cross,95,11.3,57,92,Private,NorthEast,MA,627,573,
+Babson College,94,16.8,57,93,Private,NorthEast,MA,,,
+Simon's Rock College of Bard,84,8.2,57,76,Private,NorthEast,MA,597,574,
+Stonehill College,97,13,63,79,Private,NorthEast,MA,530,480,
+North Adams State College,57,14.2,64,65,Public,NorthEast,MA,470,427,
+Boston University,72,11.9,64,80,Private,NorthEast,MA,600,550,26
+Brandeis University,84,9.8,66,90,Private,NorthEast,MA,,,
+University of Massachusetts at Boston,41,14.5,67,86,Public,NorthEast,MA,468,427,
+Bentley College,82,17.5,67,87,Private,NorthEast,MA,,,
+Bridgewater State College,51,17.1,68,73,Public,NorthEast,MA,482,441,
+Worcester State College,40,21,69,60,Public,NorthEast,MA,436,400,
+Westfield State College,65,15.7,69,75,Public,NorthEast,MA,460,420,
+Springfield College,76,12.8,71,55,Private,NorthEast,MA,480,420,
+Clark University,79,10.5,71,94,Private,NorthEast,MA,,,
+Northeastern University,46,12.9,71,73,Private,NorthEast,MA,531,467,23
+Mount Holyoke College,84,9,73,79,Private,NorthEast,MA,571,549,27
+Hampshire College,62,11.4,74,79,Private,NorthEast,MA,555,556,
+Bradford College,46,10.2,75,57,Private,NorthEast,MA,,,
+University of Massachusetts at Lowell,53,16.1,76,81,Public,NorthEast,MA,504,447,
+Curry College,58,8.7,77,39,Private,NorthEast,MA,420,390,
+Berklee College of Music,38,10.2,77,15,Private,NorthEast,MA,,,
+American International College,69,14.7,77,78,Private,NorthEast,MA,,,
+University of Massachusetts at Dartmouth,56,15,78,74,Public,NorthEast,MA,482,423,
+Merrimack College,80,16.8,78,73,Private,NorthEast,MA,520,480,
+Simmons College,79,8.9,78,74,Private,NorthEast,MA,480,460,24
+Suffolk University,60,13.3,79,95,Private,NorthEast,MA,447,407,
+Wheaton College,71,13.2,79,92,Private,NorthEast,MA,550,530,24
+Eastern Nazarene College,70,17.3,79,58,Private,NorthEast,MA,512,468,
+Assumption College,88,13.8,80,93,Private,NorthEast,MA,,,
+Salem State College,45,21,80,55,Public,NorthEast,MA,416,386,
+Anna Maria College,82,11.7,81,45,Private,NorthEast,MA,,,
+Lesley College,58,27.8,81,71,Private,NorthEast,MA,435,411,
+Worcester Polytechnic Institute,82,15.2,84,92,Private,NorthEast,MA,660,540,28
+Gordon College,66,14.2,84,73,Private,NorthEast,MA,509,483,
+Wheelock College,74,9.6,84,74,Private,NorthEast,MA,438,415,
+Wentworth Institute of Technology,64,15.4,85,10,Private,NorthEast,MA,470,380,
+Elms College,86,11.3,85,71,Private,NorthEast,MA,450,440,
+Mount Ida College,77,13.5,85,32,Private,NorthEast,MA,,,
+University of Massachusetts at Amherst,68,16.7,86,88,Public,NorthEast,MA,,,
+Western New England College,59,15.4,89,74,Private,NorthEast,MA,447,390,
+Regis College,84,10.3,90,81,Private,NorthEast,MA,452,429,
+Pine Manor College,67,8.9,91,46,Private,NorthEast,MA,391,373,20
+United States Naval Academy,94,6.8,13,54,Public,South,MD,633,538,
+Johns Hopkins University,90,3.3,41,96,Private,South,MD,686,606,30
+Villa Julie College,72,10.2,42,39,Private,South,MD,484,436,
+Morgan State University,29,18.2,52,80,Public,South,MD,444,427,
+St. Mary's College of Maryland,63,11.6,52,84,Public,South,MD,615,579,
+Bowie State University,17,22,54,57,Public,South,MD,384,357,
+Salisbury State University,56,17.9,54,73,Public,South,MD,554,491,22
+University of Maryland at Baltimore County,55,18.4,61,82,Public,South,MD,578,505,23
+Towson State University,60,17.6,62,76,Public,South,MD,516,467,
+University of Maryland Eastern Shore,35,17.8,64,56,Public,South,MD,380,359,
+Goucher College,77,9.2,71,78,Private,South,MD,572,539,
+University of Maryland at College Park,63,18.1,72,89,Public,South,MD,584,501,
+Columbia Union College,63,13.9,74,47,Private,South,MD,,,
+Frostburg State University,54,17.8,74,78,Public,South,MD,476,426,
+Loyola College,80,14.7,77,86,Private,South,MD,563,507,
+College of Notre Dame of Maryland,75,11.5,78,64,Private,South,MD,500,470,
+Washington College,65,11.2,78,79,Private,South,MD,551,516,
+Hood College,72,14.4,81,82,Private,South,MD,509,485,24
+Western Maryland College,60,12.5,82,84,Private,South,MD,527,484,
+St. John's College,64,7.2,86,63,Private,South,MD,,,
+Mount Saint Mary's College,80,12.8,88,77,Private,South,MD,510,460,
+Capitol College,52,12.1,90,10,Private,South,MD,460,420,
+Bowdoin College,96,11.2,30,93,Private,NorthEast,ME,640,580,
+Bates College,93,9.8,45,79,Private,NorthEast,ME,640,590,
+Colby College,91,10.2,46,83,Private,NorthEast,ME,610,560,26
+University of New England,64,11.4,62,72,Private,NorthEast,ME,470,430,
+University of Maine at Farmington,59,15.9,67,67,Public,NorthEast,ME,,,
+University of Maine at Fort Kent,38,15,75,65,Public,NorthEast,ME,415,383,
+Saint Joseph's College,85,27.2,82,53,Private,NorthEast,ME,460,420,
+University of Maine at Presque Isle,35,15.2,83,67,Public,NorthEast,ME,433,388,
+University of Maine at Machias,64,15.1,84,46,Public,NorthEast,ME,,,
+University of Maine at Orono,56,14.5,87,93,Public,NorthEast,ME,525,464,
+Thomas College,75,21.8,88,29,Private,NorthEast,ME,460,370,
+Unity College,44,11.4,90,45,Private,NorthEast,ME,490,475,
+Husson College,84,22,90,36,Private,NorthEast,ME,435,383,
+Andrews University,46,11.5,62,62,Private,Midwest,MI,,,20
+Center for Creative Studies,47,6.8,66,8,Private,Midwest,MI,470,450,21
+Ferris State University,57,18.2,68,38,Public,Midwest,MI,,,
+University of Michigan at Ann Arbor,87,11.5,68,90,Public,Midwest,MI,634,543,27
+University of Michigan at Dearborn,63,18,73,80,Public,Midwest,MI,,,24
+Wayne State University,41,10.9,73,85,Public,Midwest,MI,,,21
+William Tyndale College,16,12.9,75,85,Private,Midwest,MI,,,
+Grand Valley State University,57,20.6,75,64,Public,Midwest,MI,,,23
+Adrian College,54,12.9,77,53,Private,Midwest,MI,,,22
+Western Michigan University,55,24.7,78,80,Public,Midwest,MI,,,23
+University of Detroit Mercy,51,13.5,79,72,Private,Midwest,MI,498,439,21
+Lawrence Technological University,45,15.8,80,40,Private,Midwest,MI,,,22
+Eastern Michigan University,49,20.6,81,74,Public,Midwest,MI,465,431,21
+Hillsdale College,79,12,81,80,Private,Midwest,MI,550,520,24
+Lake Superior State University,51,19.9,83,47,Public,Midwest,MI,,,20
+Michigan State University,71,14,83,93,Public,Midwest,MI,524,461,23
+Aquinas College,65,12.7,83,55,Private,Midwest,MI,,,
+Calvin College,81,14.8,85,75,Private,Midwest,MI,567,505,25
+Oakland University,53,19.7,85,88,Public,Midwest,MI,,,23
+Northern Michigan University,51,22,85,59,Public,Midwest,MI,,,
+Alma College,68,15.3,85,79,Private,Midwest,MI,,,26
+Central Michigan University,70,20.4,86,66,Public,Midwest,MI,,,
+Hope College,72,12.5,87,72,Private,Midwest,MI,,,
+Saginaw Valley State University,40,18.2,87,77,Public,Midwest,MI,,,20
+Michigan Technological University,65,17,87,82,Public,Midwest,MI,620,512,26
+Madonna University,57,14.7,89,54,Private,Midwest,MI,,,
+Kalamazoo College,74,12.4,90,75,Private,Midwest,MI,626,575,27
+Siena Heights College,47,7.2,90,29,Private,Midwest,MI,,,21
+University of Michigan at Flint,64,17.7,90,70,Public,Midwest,MI,,,
+Albion College,73,13.7,91,89,Private,Midwest,MI,,,
+Olivet College,51,16,91,53,Private,Midwest,MI,,,
+Northwood University,35,91.8,91,33,Private,Midwest,MI,370,450,20
+Concordia College,84,11.6,95,55,Private,Midwest,MI,500,485,20
+Spring Arbor College,49,15.4,97,48,Private,Midwest,MI,,,21
+Macalester College,77,11.9,51,85,Private,Midwest,MN,,,
+University of Minnesota Twin Cities,45,12.2,58,88,Public,Midwest,MN,568,484,23
+Carleton College,91,10.4,59,81,Private,Midwest,MN,,,
+University of Minnesota at Morris,51,14.6,60,74,Public,Midwest,MN,650,550,26
+Winona State University,58,20.2,62,53,Public,Midwest,MN,490,460,22
+Bemidji State University,46,19.6,73,57,Public,Midwest,MN,,,
+Saint Olaf College,83,10,74,82,Private,Midwest,MN,580,520,26
+University of Minnesota at Duluth,53,19,75,79,Public,Midwest,MN,,,22
+Augsburg College,58,12.8,78,65,Private,Midwest,MN,580,460,22
+College of Saint Catherine,77,11.5,80,63,Private,Midwest,MN,469,482,22
+Gustavus Adolphus College,80,12.5,81,79,Private,Midwest,MN,585,520,25
+Bethel College,68,12.1,82,60,Private,Midwest,MN,,,
+Hamline University,65,13,82,89,Private,Midwest,MN,575,535,25
+Saint Cloud State University,58,18.9,83,70,Public,Midwest,MN,,,
+Saint John's University,70,12,86,76,Private,Midwest,MN,555,465,24
+Mankato State University,68,19,87,57,Public,Midwest,MN,,,
+University of St. Thomas,89,13.8,88,80,Private,Midwest,MN,530,464,23
+Moorhead State University,60,18.1,89,76,Public,Midwest,MN,,,22
+College of St. Scholastica,72,11.6,89,54,Private,Midwest,MN,487,443,23
+Southwest State University,51,16.5,90,58,Public,Midwest,MN,,,20
+Saint Mary's College of Minnesota,78,18.8,92,68,Private,Midwest,MN,,,21
+College of Saint Benedict,72,13.1,92,70,Private,Midwest,MN,526,484,23
+Concordia College at St. Paul,45,12.8,95,69,Private,Midwest,MN,,,
+College of the Ozarks,87,14.3,10,53,Private,Midwest,MO,,,21
+Columbia College,37,15.3,50,87,Private,Midwest,MO,,,20
+Lindenwood College,100,24.1,60,65,Private,Midwest,MO,435,435,22
+Washington University,90,3.9,69,91,Private,Midwest,MO,,,
+Webster University,48,20.6,70,68,Private,Midwest,MO,494,511,23
+Culver-Stockton College,51,14.1,70,51,Private,Midwest,MO,,,22
+University of Missouri at Saint Louis,48,13.4,71,71,Public,Midwest,MO,,,
+University of Missouri at Columbia,58,12.7,71,87,Public,Midwest,MO,564,502,25
+University of Missouri at Kansas City,44,11.6,71,98,Public,Midwest,MO,,,24
+Maryville University,61,13.1,72,52,Private,Midwest,MO,506,457,24
+Missouri Valley College,27,17.4,75,35,Private,Midwest,MO,400,400,18
+Northeast Missouri State University,76,15.7,76,69,Public,Midwest,MO,,,26
+Central Methodist College,49,15.1,80,50,Private,Midwest,MO,,,
+Avila College,54,10.6,80,57,Private,Midwest,MO,450,450,22
+Southeast Missouri State University,45,17.1,82,75,Public,Midwest,MO,,,
+William Jewell College,59,11.2,83,74,Private,Midwest,MO,550,510,24
+Park College,49,18.4,83,39,Private,Midwest,MO,,,
+Westminster College,62,12.5,84,66,Private,Midwest,MO,520,480,24
+Missouri Southern State College,100,20.3,84,52,Public,Midwest,MO,,,
+Fontbonne College,62,21.5,84,45,Private,Midwest,MO,,,
+Southwest Missouri State University,56,19.9,86,70,Public,Midwest,MO,,,22
+Saint Louis University,67,4.6,87,84,Private,Midwest,MO,,,
+Central Missouri State University,50,19.7,88,69,Public,Midwest,MO,,,21
+Stephens College,59,10.9,90,46,Private,Midwest,MO,474,426,21
+Rockhurst College,79,10.7,92,60,Private,Midwest,MO,,,
+William Woods University,52,12.9,93,39,Private,Midwest,MO,482,459,21
+Northwest Missouri State University,54,21.7,93,62,Public,Midwest,MO,,,
+Drury College,67,13.2,93,82,Private,Midwest,MO,,,25
+University of Missouri at Rolla,49,14.4,97,88,Public,Midwest,MO,655,547,27
+Missouri Western State College,40,19,99,54,Public,Midwest,MO,,,19
+Southwest Baptist University,71,15.9,100,52,Private,Midwest,MO,,,23
+Tougaloo College,53,14.5,18,53,Private,South,MS,,,
+Mississippi Valley State University,56,18.6,39,43,Public,South,MS,,,16
+Rust College,49,19.6,51,44,Private,South,MS,,,16
+Alcorn State University,35,14.1,63,45,Public,South,MS,,,18
+Mississippi College,61,16.5,65,77,Private,South,MS,,,23
+Jackson State University,41,15.4,68,60,Public,South,MS,,,
+University of Southern Mississippi,45,18.7,72,78,Public,South,MS,531,449,22
+Mississippi State University,53,15.9,77,77,Public,South,MS,,,23
+William Carey College,19,13.6,83,36,Private,South,MS,,,20
+Mississippi University for Women,63,15.8,84,49,Public,South,MS,,,23
+University of Mississippi,53,20.3,88,81,Public,South,MS,,,
+Millsaps College,58,12.7,92,82,Private,South,MS,570,550,26
+Delta State University,58,17.1,98,49,Public,South,MS,,,
+Blue Mountain College,66,11.3,100,33,Private,South,MS,,,19
+Western Montana College,59,16.4,68,50,Public,West,MT,,,19
+Rocky Mountain College,68,11.3,70,56,Private,West,MT,444,426,21
+Montana State University,37,17.6,81,75,Public,West,MT,520,440,23
+University of Montana,30,21.7,85,75,Public,West,MT,489,457,22
+Carroll College,58,14.1,93,49,Private,West,MT,450,500,23
+Montana College of Mineral Sci. & Tech.,74,16.4,95,71,Public,West,MT,575,481,22
+Montana State University-Billings,40,18.5,98,70,Public,West,MT,,,
+Duke University,97,5,28,95,Private,South,NC,687,615,30
+Shaw University,69,14.4,37,71,Private,South,NC,,,
+Davidson College,94,12,40,95,Private,South,NC,650,580,29
+University of North Carolina at Chapel Hill,83,8.9,41,88,Public,South,NC,594,527,
+Wake Forest University,89,4.3,42,95,Private,South,NC,,,
+Livingstone College,92,10.4,53,53,Private,South,NC,,,
+Elizabeth City State University,51,14.1,54,68,Public,South,NC,,,
+University of North Carolina at Asheville,37,13,56,77,Public,South,NC,550,504,24
+St. Augustine's College,56,14,57,43,Private,South,NC,406,407,
+University of North Carolina at Wilmington,55,19.1,64,82,Public,South,NC,494,441,21
+Appalachian State University,70,18.3,64,83,Public,South,NC,519,471,22
+North Carolina A. & T. State University,44,16.7,64,72,Public,South,NC,441,384,
+Campbell University,63,21.8,64,77,Private,South,NC,476,439,
+North Carolina State University at Raleigh,62,17.5,66,92,Public,South,NC,578,493,
+East Carolina University,58,13.2,69,74,Public,South,NC,486,435,18
+Johnson C. Smith University,37,14.2,69,61,Private,South,NC,,,
+Bennett College,44,12.1,70,63,Private,South,NC,395,385,17
+Warren Wilson College,63,11.4,71,65,Private,South,NC,,,
+Fayetteville State University,24,15.1,73,75,Public,South,NC,426,390,
+North Carolina Central University,40,15.4,75,66,Public,South,NC,,,
+Winston-Salem State University,46,13.5,75,67,Private,South,NC,405,369,
+Lenoir-Rhyne College,66,12,76,88,Private,South,NC,482,439,21
+Queens College,58,14,76,73,Private,South,NC,514,491,26
+University of North Carolina at Charlotte,62,16.8,77,79,Public,South,NC,491,435,21
+Elon College,63,18.9,77,70,Private,South,NC,483,439,
+Pfeiffer College,48,12.2,78,62,Private,South,NC,441,390,
+Western Carolina University,55,14.6,78,67,Public,South,NC,457,410,
+Belmont Abbey College,52,13.2,78,78,Private,South,NC,463,427,
+University of North Carolina at Greensboro,53,15.5,80,75,Public,South,NC,499,457,
+Greensboro College,39,13,81,64,Private,South,NC,485,438,
+Catawba College,55,13.5,81,75,Private,South,NC,481,434,
+High Point University,62,17.8,81,55,Private,South,NC,456,423,
+Pembroke State University,48,15,82,77,Public,South,NC,433,385,
+Wingate College,91,13.9,82,69,Private,South,NC,442,400,22
+Mars Hill College,69,11.9,83,60,Private,South,NC,442,406,20
+Barton College,67,13.7,83,55,Private,South,NC,444,396,
+Gardner Webb University,29,15.2,84,65,Private,South,NC,445,400,19
+Methodist College,56,11.4,84,73,Private,South,NC,,,
+Montreat-Anderson College,15,11.1,85,42,Private,South,NC,443,427,20
+Salem College,60,11.2,85,68,Private,South,NC,508,494,24
+North Carolina Wesleyan College,52,12.7,85,77,Private,South,NC,432,394,20
+Guilford College,65,15.6,88,78,Private,South,NC,530,500,24
+Meredith College,82,13.9,90,77,Private,South,NC,,,
+St. Andrews Presbyterian College,56,13.8,96,79,Private,South,NC,465,450,
+Barber Scotia College,34,13.5,100,50,Private,South,NC,320,280,
+North Dakota State University,42,17,77,79,Public,Midwest,ND,,,23
+University of North Dakota,49,15.9,81,97,Public,Midwest,ND,535,465,23
+Jamestown College,54,17,87,51,Private,Midwest,ND,,,22
+University of Mary,48,18,91,26,Private,Midwest,ND,,,21
+Valley City State University,40,14.9,94,39,Public,Midwest,ND,,,
+Dickinson State University,46,16.5,95,50,Public,Midwest,ND,,,21
+Mayville State University,51,15.7,100,68,Public,Midwest,ND,,,20
+Peru State College,44,20.1,72,48,Public,Midwest,NE,,,20
+College of Saint Mary,47,8.9,75,23,Private,Midwest,NE,,,
+Union College,48,8.5,86,48,Private,Midwest,NE,,,
+Hastings College,52,13,87,57,Private,Midwest,NE,,,23
+Doane College,60,15.1,89,67,Private,Midwest,NE,,,23
+Midland Lutheran College,56,14.5,93,42,Private,Midwest,NE,,,
+University of Nebraska at Omaha,19,19.7,94,77,Public,Midwest,NE,,,
+University of Nebraska at Kearney,55,19,95,59,Public,Midwest,NE,,,21
+Dana College,54,12.6,96,46,Private,Midwest,NE,,,22
+Creighton University,85,6.5,96,85,Private,Midwest,NE,,,25
+University of Nebraska at Lincoln,53,15.1,96,86,Public,Midwest,NE,513,447,22
+Concordia College,80,11.1,99,54,Private,Midwest,NE,,,
+Wayne State College,52,20.3,100,60,Public,Midwest,NE,,,20
+Chadron State College,80,25,100,62,Public,Midwest,NE,,,21
+Dartmouth College,98,4.7,27,95,Private,NorthEast,NH,692,627,
+Saint Anselm College,97,14.5,74,70,Private,NorthEast,NH,512,481,
+Keene State College,61,16.1,78,73,Public,NorthEast,NH,463,424,
+University of New Hampshire,75,17.5,78,89,Public,NorthEast,NH,536,476,
+Rivier College,81,12.2,80,59,Private,NorthEast,NH,,,
+New Hampshire College,76,38.4,85,34,Private,NorthEast,NH,433,383,
+Notre Dame College,33,12.1,86,44,Private,NorthEast,NH,439,430,
+Franklin Pierce College,51,17.6,86,50,Private,NorthEast,NH,424,403,
+Daniel Webster College,72,22.2,87,61,Private,NorthEast,NH,490,438,
+New England College,59,9.5,92,42,Private,NorthEast,NH,,,
+Thomas More Coll. of Liberal Arts,60,11.8,100,80,Private,NorthEast,NH,526,540,25
+Princeton University,99,8.4,15,91,Private,NorthEast,NJ,708,647,
+Rowan College of New Jersey,51,22.1,38,76,Public,NorthEast,NJ,520,468,
+Stockton College of New Jersey,64,19.5,39,78,Public,NorthEast,NJ,552,489,
+Montclair State University,58,21.5,41,82,Public,NorthEast,NJ,487,431,
+Ramapo College of New Jersey,47,17.8,46,74,Public,NorthEast,NJ,510,460,
+Trenton State College,81,14.4,46,81,Public,NorthEast,NJ,592,519,
+Rutgers State University at Newark,58,17.4,47,90,Public,NorthEast,NJ,529,459,
+Jersey City State College,26,14.9,48,63,Public,NorthEast,NJ,440,400,
+William Paterson College of New Jersey,38,23.5,49,77,Public,NorthEast,NJ,485,428,
+Fairleigh Dickinson University,60,16.7,51,77,Private,NorthEast,NJ,495,430,
+Rutgers State University at Camden,57,18.6,52,90,Public,NorthEast,NJ,545,489,
+Rutgers at New Brunswick,77,19.5,55,90,Public,NorthEast,NJ,594,513,
+Caldwell College,55,13.9,60,87,Private,NorthEast,NJ,478,441,
+New Jersey Institute of Technology,72,13.5,65,92,Public,NorthEast,NJ,600,466,
+Rider University,70,12.3,68,84,Private,NorthEast,NJ,501,439,
+Kean College of New Jersey,40,17.2,69,76,Public,NorthEast,NJ,463,417,
+Monmouth College,54,14.2,70,70,Private,NorthEast,NJ,494,440,
+Stevens Institute of Technology,79,19,71,89,Private,NorthEast,NJ,652,521,
+Drew University,83,10.2,73,93,Private,NorthEast,NJ,603,564,
+Seton Hall University,64,14.4,78,81,Private,NorthEast,NJ,496,443,
+Georgian Court College,76,12.2,81,56,Private,NorthEast,NJ,474,441,
+College of Saint Elizabeth,78,11.4,81,68,Private,NorthEast,NJ,486,464,
+Bloomfield College,38,14.4,83,53,Private,NorthEast,NJ,,,
+Centenary College,24,9.5,85,41,Private,NorthEast,NJ,500,470,19
+Saint Peter's College,53,12.1,88,78,Private,NorthEast,NJ,428,379,
+Upsala College,43,14,89,72,Private,NorthEast,NJ,410,400,
+New Mexico Institute of Mining and Tech.,34,13.7,76,99,Public,West,NM,,,26
+New Mexico State University,40,19.6,78,76,Public,West,NM,,,22
+College of the Southwest,20,14.3,79,24,Private,West,NM,460,390,19
+College of Santa Fe,80,14,82,40,Private,West,NM,480,484,21
+New Mexico Highlands University,28,17.4,84,72,Public,West,NM,,,17
+Saint John's College,61,9.8,86,73,Private,West,NM,,,
+Univ. of New Mexico-Main Campus,34,14.3,87,91,Public,West,NM,,,22
+Eastern New Mexico University,34,19.6,97,73,Public,West,NM,,,
+Western New Mexico University,47,15.5,100,55,Public,West,NM,,,17
+Sierra Nevada College,29,7.5,80,45,Private,West,NV,400,400,21
+University of Nevada at Reno,54,15.4,84,78,Public,West,NV,488,432,22
+United States Military Academy,95,8.8,12,37,Public,NorthEast,NY,653,558,28
+Cooper Union,95,8.1,13,67,Private,NorthEast,NY,740,600,
+Columbia University,99,5.9,29,97,Private,NorthEast,NY,680,620,
+St. John's University,65,29.3,37,72,Private,NorthEast,NY,506,426,
+Cornell University,93,6.9,37,91,Private,NorthEast,NY,,,
+United States Merchant Marine Academy,71,12.8,38,68,Public,NorthEast,NY,,,
+Long Island University at Brooklyn,61,21.6,40,75,Private,NorthEast,NY,420,410,
+SUNY at Binghamton,80,18,43,83,Public,NorthEast,NY,615,533,26
+SUNY College at New Paltz,53,15.3,43,85,Public,NorthEast,NY,537,479,24
+Bard College,79,10.4,44,98,Private,NorthEast,NY,,,
+SUNY College at Cortland,53,17.8,45,82,Public,NorthEast,NY,524,460,23
+Pace University,62,13.8,45,90,Private,NorthEast,NY,517,441,
+SUNY College  at Brockport,49,19,49,79,Public,NorthEast,NY,506,446,22
+Union College,88,11.5,49,94,Private,NorthEast,NY,,,28
+Colgate University,93,10.5,51,95,Private,NorthEast,NY,623,563,27
+CUNY-Hunter College,39,14.1,52,62,Public,NorthEast,NY,446,399,
+Vassar College,90,9.7,53,90,Private,NorthEast,NY,625,603,27
+SUNY College at Geneseo,76,19.1,53,79,Public,NorthEast,NY,608,541,26
+New York University,71,7.8,53,87,Private,NorthEast,NY,604,542,
+CUNY- Baruch College,47,18.2,53,83,Public,NorthEast,NY,,,
+Sarah Lawrence College,83,6.1,56,89,Private,NorthEast,NY,560,590,
+SUNY at Stony Brook,57,10.5,56,91,Public,NorthEast,NY,542,464,
+Barnard College,91,10.3,56,83,Private,NorthEast,NY,620,600,
+Hamilton College,91,9.6,57,91,Private,NorthEast,NY,591,531,
+SUNY College  at Oswego,63,22,57,69,Public,NorthEast,NY,550,480,24
+SUNY College at Fredonia,66,16.3,57,82,Public,NorthEast,NY,525,472,23
+SUNY College at Oneonta,60,17.1,58,70,Public,NorthEast,NY,509,463,22
+Mount Saint Mary College,88,15.3,59,74,Private,NorthEast,NY,450,450,19
+SUNY College at Purchase,46,14.9,60,80,Public,NorthEast,NY,486,466,
+Nyack College,55,11.6,62,35,Private,NorthEast,NY,472,433,21
+New School for Social Research,59,10.2,62,69,Private,NorthEast,NY,537,552,
+University of Rochester,80,5.9,63,93,Private,NorthEast,NY,,,
+Skidmore College,81,12.7,64,87,Private,NorthEast,NY,570,520,25
+SUNY at Buffalo,56,13.6,64,90,Public,NorthEast,NY,572,480,
+SUNY College at Plattsburgh,65,17.9,65,80,Public,NorthEast,NY,520,460,22
+Siena College,100,14.1,65,71,Private,NorthEast,NY,560,491,24
+Concordia College,53,9.5,65,50,Private,NorthEast,NY,467,435,
+SUNY College at Buffalo,42,18.7,66,71,Public,NorthEast,NY,455,409,
+St. Lawrence University,85,11.5,66,90,Private,NorthEast,NY,573,510,
+Marist College,69,17.6,67,74,Private,NorthEast,NY,515,475,25
+College of Saint Rose,64,14.3,68,66,Private,NorthEast,NY,,,
+SUNY at Albany,74,17.4,68,93,Public,NorthEast,NY,580,506,
+Marymount College Tarrytown,77,10.3,68,71,Private,NorthEast,NY,456,460,
+Fordham University,80,14.4,68,86,Private,NorthEast,NY,535,506,
+College of Mount St. Vincent,83,11.9,69,75,Private,NorthEast,NY,474,454,23
+Syracuse University,67,11.3,69,73,Private,NorthEast,NY,,,
+St. Thomas Aquinas College,67,16.1,71,69,Private,NorthEast,NY,425,400,
+Manhattan College,79,13.6,71,92,Private,NorthEast,NY,539,467,
+D'Youville College,46,14.6,72,68,Private,NorthEast,NY,497,435,22
+Wagner College,75,13.2,72,67,Private,NorthEast,NY,510,480,
+Elmira College,64,21.5,72,77,Private,NorthEast,NY,496,463,23
+Iona College,66,16,72,66,Private,NorthEast,NY,457,410,19
+St. Joseph's College,74,13.6,72,52,Private,NorthEast,NY,483,442,19
+CUNY - City College,34,12.8,73,78,Public,NorthEast,NY,488,405,
+SUNY College at Potsdam,59,15.1,73,71,Public,NorthEast,NY,540,500,23
+CUNY-Lehman College,30,15.3,73,80,Public,NorthEast,NY,407,371,
+Polytechnic University,62,10.4,75,90,Private,NorthEast,NY,630,480,
+Wells College,69,8.3,76,93,Private,NorthEast,NY,590,490,24
+Ithaca College,75,11.5,76,58,Private,NorthEast,NY,,,
+Utica College of Syracuse University,65,12.3,77,64,Private,NorthEast,NY,496,437,28
+Canisius College,64,14.6,77,90,Private,NorthEast,NY,,,
+Marymount Manhattan College,68,11.7,77,63,Private,NorthEast,NY,500,460,24
+Hobart and William Smith Colleges,79,12.1,77,99,Private,NorthEast,NY,,,
+CUNY - Queens College,46,12.5,78,100,Public,NorthEast,NY,486,421,
+St. John Fisher College,66,14.5,78,86,Private,NorthEast,NY,525,465,22
+Manhattanville College,70,11.3,78,97,Private,NorthEast,NY,524,500,
+New York Institute of Technology,53,18.6,78,74,Private,NorthEast,NY,,,
+Hofstra University,60,13.9,79,81,Private,NorthEast,NY,540,470,24
+Niagara University,65,14.2,81,68,Private,NorthEast,NY,,,
+Le Moyne College,94,13.3,82,89,Private,NorthEast,NY,,,
+Dowling College,42,12.4,82,77,Private,NorthEast,NY,440,400,18
+Alfred University,73,11.3,82,82,Private,NorthEast,NY,,,
+Keuka College,51,13.3,83,55,Private,NorthEast,NY,495,451,22
+Hartwick College,73,12.3,83,75,Private,NorthEast,NY,524,478,23
+Houghton College,67,15,83,85,Private,NorthEast,NY,535,508,24
+Molloy College,80,9.7,83,38,Private,NorthEast,NY,468,435,
+CUNY-Brooklyn College,43,15.6,83,83,Public,NorthEast,NY,490,426,
+Rensselaer Polytechnic Institute,70,15.4,83,94,Private,NorthEast,NY,,,28
+Nazareth College of Rochester,61,13.6,84,77,Private,NorthEast,NY,540,494,24
+Yeshiva University,63,5.2,86,86,Private,NorthEast,NY,621,553,
+Adelphi University,56,12.2,88,29,Private,NorthEast,NY,500,457,
+St. Bonaventure University,78,17.7,88,91,Private,NorthEast,NY,535,478,25
+Clarkson University,77,15.8,90,95,Private,NorthEast,NY,612,518,
+St. Francis College,45,19.3,90,63,Private,NorthEast,NY,,,
+Dominican College of Blauvelt,54,12.7,91,43,Private,NorthEast,NY,,,
+Roberts Wesleyan College,46,13.4,92,45,Private,NorthEast,NY,473,442,21
+SUNY College at Old Westbury,22,25.3,98,67,Public,NorthEast,NY,,,
+CUNY- Medgar Evers College,36,16.5,100,64,Public,NorthEast,NY,340,320,
+CUNY-College of Staten Island,48,17.6,100,71,Public,NorthEast,NY,447,398,
+CUNY-York College,26,18.9,100,75,Public,NorthEast,NY,395,356,
+Kent State University,46,20.8,33,81,Public,Midwest,OH,462,424,21
+Oberlin College,83,10.1,58,77,Private,Midwest,OH,623,596,29
+Marietta College,96,13.2,60,80,Private,Midwest,OH,,,
+Kenyon College,88,11.1,70,95,Private,Midwest,OH,593,570,27
+Bluffton College,58,13.3,74,76,Private,Midwest,OH,512,438,23
+Ohio University,64,20.4,75,79,Public,Midwest,OH,520,473,24
+Ohio Wesleyan University,75,12.1,78,93,Private,Midwest,OH,575,528,25
+College of Mount St. Joseph,100,11.1,78,46,Private,Midwest,OH,480,440,21
+Capital University,83,12.1,79,64,Private,Midwest,OH,,,23
+Hiram College,79,10.6,79,75,Private,Midwest,OH,540,510,24
+Bowling Green State University,67,21.1,79,81,Public,Midwest,OH,497,449,22
+Ohio Northern University,83,14.5,80,73,Private,Midwest,OH,541,465,24
+Ursuline College,68,10.5,80,39,Private,Midwest,OH,434,404,21
+Otterbein College,87,13.9,81,62,Private,Midwest,OH,,,24
+Defiance College,56,12.8,81,58,Private,Midwest,OH,438,381,21
+Baldwin-Wallace College,85,17.6,81,68,Private,Midwest,OH,529,468,23
+University of Cincinnati,54,10.8,81,89,Public,Midwest,OH,533,464,23
+Case Western Reserve University,67,2.9,81,95,Private,Midwest,OH,,,
+Walsh University,68,11.3,82,42,Private,Midwest,OH,,,22
+Franciscan University of Steubenville,83,14.9,82,57,Private,Midwest,OH,516,488,24
+University of Akron,43,16.7,82,71,Public,Midwest,OH,467,413,20
+Denison University,81,11.6,83,88,Private,Midwest,OH,,,
+Mount Union College,81,16.7,83,85,Private,Midwest,OH,,,23
+Muskingum College,73,13.4,83,73,Private,Midwest,OH,490,436,22
+University of Dayton,93,14.8,83,81,Private,Midwest,OH,578,504,25
+Cedarville College,64,15.3,83,50,Private,Midwest,OH,524,486,24
+Miami University at Oxford,85,17.6,84,81,Public,Midwest,OH,,,
+Wilmington College,67,13.3,85,59,Private,Midwest,OH,,,
+Malone College,55,17.6,87,42,Private,Midwest,OH,479,433,21
+Tiffin University,39,19,87,59,Private,Midwest,OH,372,308,19
+Ashland University,66,17.4,87,43,Private,Midwest,OH,438,410,21
+John Carroll University,89,14.5,87,89,Private,Midwest,OH,561,502,23
+Wittenberg University,78,12.8,88,82,Private,Midwest,OH,577,524,25
+Youngstown State University,50,18,88,71,Public,Midwest,OH,,,20
+College of Wooster,69,11.1,90,84,Private,Midwest,OH,570,530,24
+Xavier University,83,13.3,92,73,Private,Midwest,OH,521,475,24
+Antioch University,48,11.3,93,69,Private,Midwest,OH,504,516,24
+Heidelberg College,65,12.5,93,68,Private,Midwest,OH,500,420,22
+Mount Vernon Nazarene College,58,19.8,95,57,Private,Midwest,OH,,,22
+Cleveland State University,35,18.5,95,91,Public,Midwest,OH,440,408,20
+Lourdes College,46,9.6,97,17,Private,Midwest,OH,,,19
+University of Toledo,48,20.4,97,81,Public,Midwest,OH,504,447,20
+Franklin University,33,19.6,100,53,Private,Midwest,OH,,,
+Oral Roberts University,45,15.5,53,51,Private,South,OK,520,490,23
+Northwestern Oklahoma State University,29,16.2,66,40,Public,South,OK,,,
+Oklahoma City University,40,14.6,70,59,Private,South,OK,531,501,23
+Phillips University,39,11.6,83,58,Private,South,OK,465,423,22
+University of Oklahoma,44,11.5,84,86,Public,South,OK,,,24
+Southeastern Oklahoma State Univ.,53,19.6,86,55,Public,South,OK,,,20
+Northeastern State University,25,20.2,86,62,Public,South,OK,,,21
+Oklahoma State University,48,15.3,87,84,Public,South,OK,540,477,24
+Oklahoma Baptist University,50,15.1,90,63,Private,South,OK,,,24
+University of Tulsa,47,11.5,91,94,Private,South,OK,576,525,24
+University of Central Oklahoma,31,22.8,94,65,Public,South,OK,,,21
+Cameron University,36,19.9,95,55,Private,South,OK,,,19
+Oklahoma Panhandle State University,29,18.1,98,58,Public,South,OK,,,20
+University of Sci. and Arts of Oklahoma,43,23.6,98,67,Public,South,OK,,,20
+Oklahoma Christian University,45,16.2,99,58,Private,South,OK,480,440,22
+Southern Nazarene University,44,20.8,100,65,Private,South,OK,,,21
+Concordia College,41,14.3,69,56,Private,West,OR,466,434,19
+Reed College,68,11.8,73,90,Private,West,OR,632,603,28
+Lewis and Clark College,69,12.3,75,97,Private,West,OR,,,
+Linfield College,81,17.8,76,89,Private,West,OR,556,495,25
+Warner Pacific College,29,12.9,78,39,Private,West,OR,460,415,21
+University of Oregon,54,19.7,78,79,Public,West,OR,,,
+Willamette University,68,13.3,80,91,Private,West,OR,575,525,25
+Oregon State University,45,13.9,84,88,Public,West,OR,522,443,22
+University of Portland,72,13.2,85,92,Private,West,OR,527,474,
+Western Baptist College,51,16.8,85,23,Private,West,OR,429,404,
+George Fox College,52,13.5,90,53,Private,West,OR,497,463,
+Pacific University,42,10.9,90,76,Private,West,OR,542,479,24
+Oregon Institute of Technology,41,14.7,91,20,Public,West,OR,485,418,
+Portland State University,24,20,97,78,Public,West,OR,484,416,22
+Swarthmore College,95,8.8,39,93,Private,NorthEast,PA,672,630,
+University of Pennsylvania,93,6.3,42,95,Private,NorthEast,PA,680,594,29
+Haverford College,95,10.6,44,94,Private,NorthEast,PA,,,
+Grove City College,100,18.4,45,65,Private,NorthEast,PA,607,537,27
+Bloomsburg Univ. of Pennsylvania,75,18,45,66,Public,NorthEast,PA,524,465,
+Kutztown University of Penn.,57,19.4,48,58,Public,NorthEast,PA,492,465,
+Millersville University of Penn.,71,16.8,51,72,Public,NorthEast,PA,536,479,
+Indiana University of Pennsylvania,63,20.6,51,77,Public,NorthEast,PA,495,446,
+Pennsylvania State Univ. Main Campus,63,18.1,54,77,Public,NorthEast,PA,583,500,
+West Chester University of Penn.,52,15.3,54,76,Public,NorthEast,PA,495,450,
+California University of Pennsylvania,58,16.3,55,53,Public,NorthEast,PA,415,391,
+Bryn Mawr College,89,12.3,55,100,Private,NorthEast,PA,630,630,
+Shippensburg University of Penn.,72,18.8,56,80,Public,NorthEast,PA,529,468,
+Holy Family College,74,11.2,57,44,Private,NorthEast,PA,,,
+Bucknell University,93,14.2,58,95,Private,NorthEast,PA,,,
+East Stroudsburg University of Penn.,54,19.4,58,66,Public,NorthEast,PA,475,421,
+Carnegie Mellon University,74,9.2,60,86,Private,NorthEast,PA,679,555,28
+Lafayette College,92,10.5,60,93,Private,NorthEast,PA,,,
+Lock Haven University of Pennsylvania,63,16.1,62,47,Public,NorthEast,PA,510,460,
+College Misericordia,96,12.9,62,56,Private,NorthEast,PA,,,
+York College of Pennsylvania,99,18.1,62,75,Private,NorthEast,PA,517,469,
+Gwynedd Mercy College,96,7.8,62,36,Private,NorthEast,PA,500,470,
+La Salle University,84,15.1,63,90,Private,NorthEast,PA,540,507,
+Mansfield University of Penn.,55,15.9,64,48,Public,NorthEast,PA,,,
+Temple University,45,11.2,64,87,Public,NorthEast,PA,508,455,
+Franklin and Marshall College,86,10.9,65,93,Private,NorthEast,PA,600,500,26
+Lincoln University,45,12.6,66,71,Public,NorthEast,PA,399,375,
+University of Scranton,92,14.1,66,83,Private,NorthEast,PA,561,509,
+Allentown Coll. of St. Francis de Sales,74,13.3,66,60,Private,NorthEast,PA,515,470,
+Slippery Rock University of Penn.,56,16.9,67,72,Public,NorthEast,PA,,,
+Lehigh University,91,12.5,67,96,Private,NorthEast,PA,,,
+Gettysburg College,83,12.1,69,94,Private,NorthEast,PA,,,
+Mercyhurst College,78,16.7,69,45,Private,NorthEast,PA,,,
+Edinboro University of Penn.,54,19,70,54,Public,NorthEast,PA,,,
+Widener University,63,12.6,70,88,Private,NorthEast,PA,521,491,20
+Allegheny College,76,9.9,72,73,Private,NorthEast,PA,,,
+Villanova University,96,13.4,72,89,Private,NorthEast,PA,599,528,
+Susquehanna University,90,13.9,72,83,Private,NorthEast,PA,,,
+University of the Arts,57,7.5,72,16,Private,NorthEast,PA,452,443,
+King's College,87,15.6,72,66,Private,NorthEast,PA,504,455,
+Muhlenberg College,83,12.8,73,76,Private,NorthEast,PA,565,506,24
+Beaver College,73,12.2,73,78,Private,NorthEast,PA,505,460,
+Ursinus College,79,11.6,73,82,Private,NorthEast,PA,567,512,
+Chestnut Hill College,73,8.3,74,71,Private,NorthEast,PA,483,495,
+University of Pittsburgh-Main Campus,66,7.8,74,93,Public,NorthEast,PA,537,480,
+Elizabethtown College,81,12.8,76,65,Private,NorthEast,PA,546,492,
+Lebanon Valley College,85,12.3,77,84,Private,NorthEast,PA,521,467,
+Gannon University,65,13.3,77,47,Private,NorthEast,PA,518,464,23
+Moravian College,74,15.2,78,86,Private,NorthEast,PA,,,
+Marywood College,66,11.8,78,65,Private,NorthEast,PA,470,449,
+Wilson College,67,8.3,78,67,Private,NorthEast,PA,470,460,
+Lycoming College,72,14,78,75,Private,NorthEast,PA,493,451,21
+Cedar Crest College,74,11.7,78,58,Private,NorthEast,PA,490,470,21
+Saint Francis College,69,19.3,79,64,Private,NorthEast,PA,,,
+Messiah College,89,14.1,79,68,Private,NorthEast,PA,555,509,24
+Saint Joseph's University,83,17.4,80,84,Private,NorthEast,PA,545,498,
+Geneva College,74,20.1,80,67,Private,NorthEast,PA,502,460,22
+Carlow College,68,10.9,81,58,Private,NorthEast,PA,,,
+Eastern College,54,13.6,81,60,Private,NorthEast,PA,479,452,23
+Albright College,80,11.3,81,79,Private,NorthEast,PA,537,486,24
+Philadelphia Coll. of Textiles and Sci.,68,12.9,82,48,Private,NorthEast,PA,490,440,
+Waynesburg College,63,16.2,82,57,Private,NorthEast,PA,,,
+Thiel College,60,11.6,82,68,Private,NorthEast,PA,444,418,20
+Cabrini College,71,16.5,83,59,Private,NorthEast,PA,434,419,
+Duquesne University,75,13.8,84,84,Private,NorthEast,PA,,,
+Dickinson College,87,11.2,84,87,Private,NorthEast,PA,,,
+Washington and Jefferson College,86,12.1,84,91,Private,NorthEast,PA,,,
+Seton Hill College,71,11.2,85,71,Private,NorthEast,PA,,,
+Point Park College,66,14.5,85,45,Private,NorthEast,PA,424,418,21
+Robert Morris College,58,18.5,85,58,Private,NorthEast,PA,453,400,20
+Saint Vincent College,88,12.3,85,62,Private,NorthEast,PA,,,
+Juniata College,80,12.7,86,97,Private,NorthEast,PA,558,509,
+Alvernia College,72,10.8,87,42,Private,NorthEast,PA,410,430,18
+Westminster College,80,12.5,87,62,Private,NorthEast,PA,530,470,24
+Wilkes University,67,13.3,88,78,Private,NorthEast,PA,,,
+La Roche College,52,14.2,89,57,Private,NorthEast,PA,408,380,
+Clarion University of Pennsylvania,63,19.2,91,61,Public,NorthEast,PA,448,412,
+Chatham College,52,9.3,93,95,Private,NorthEast,PA,481,491,22
+Immaculata College,69,11.2,94,56,Private,NorthEast,PA,420,430,
+Brown University,97,7.6,26,99,Private,NorthEast,RI,680,620,28
+Rhode Island School of Design,96,10,46,27,Private,NorthEast,RI,551,508,
+Providence College,96,18.4,65,66,Private,NorthEast,RI,537,485,25
+Rhode Island College,47,15.7,77,74,Public,NorthEast,RI,,,
+University of Rhode Island,63,16.6,80,84,Public,NorthEast,RI,515,449,
+Bryant College,82,19,81,84,Private,NorthEast,RI,536,447,
+Roger Williams University,61,16.4,85,44,Private,NorthEast,RI,455,406,
+Salve Regina University,71,9.6,85,64,Private,NorthEast,RI,455,420,
+Claflin College,21,16.9,58,69,Private,South,SC,,,
+Wofford College,75,15.3,62,91,Private,South,SC,564,517,24
+Univ. of South Carolina at Spartanburg,38,15.9,63,70,Public,South,SC,459,411,19
+Clemson University,73,18,65,82,Public,South,SC,565,487,
+College of Charleston,51,17.2,66,73,Public,South,SC,532,489,22
+University of South Carolina at Aiken,48,14.8,66,62,Public,South,SC,480,425,21
+Voorhees College,58,22.9,69,43,Private,South,SC,340,330,16
+Coker College,75,12.1,75,64,Private,South,SC,469,431,
+Coastal Carolina University,51,17,75,74,Public,South,SC,,,
+Charleston Southern University,39,19.2,75,60,Private,South,SC,497,450,
+University of South Carolina at Columbia,63,16.9,76,84,Public,South,SC,520,465,22
+Presbyterian College,85,13.4,77,80,Private,South,SC,580,520,26
+Winthrop University,59,12.8,78,71,Public,South,SC,516,470,18
+Morris College,60,18.6,83,53,Private,South,SC,,,
+Newberry College,83,11.4,83,57,Private,South,SC,466,418,20
+The Citadel,84,17.1,83,95,Public,South,SC,,,
+Columbia College,76,14.7,83,61,Private,South,SC,460,433,
+Central Wesleyan College,58,15.2,84,62,Private,South,SC,429,384,18
+Erskine College,67,13.5,85,76,Private,South,SC,532,482,
+Lander University,51,17,87,67,Public,South,SC,455,406,18
+Furman University,82,13.5,90,92,Private,South,SC,584,528,
+Benedict College,48,14.6,91,44,Private,South,SC,,,
+Francis Marion University,43,19.1,92,76,Public,South,SC,441,396,
+Converse College,75,10.2,93,63,Private,South,SC,,,
+Huron University,21,12.9,33,31,Private,Midwest,SD,,,
+Dakota Wesleyan University,75,11.4,53,38,Private,Midwest,SD,,,20
+Sioux Falls College,48,14.8,92,73,Private,Midwest,SD,,,22
+South Dakota State University,67,15,92,62,Public,Midwest,SD,,,23
+Dakota State University,35,19.4,93,47,Public,Midwest,SD,,,20
+Augustana College,69,10.4,95,66,Private,Midwest,SD,,,
+Mount Marty College,44,11.7,99,45,Private,Midwest,SD,,,20
+Northern State University,54,20.2,100,68,Public,Midwest,SD,,,20
+Black Hills State University,51,29.2,100,63,Public,Midwest,SD,,,
+Christian Brothers University,63,11.1,59,81,Private,South,TN,530,480,24
+Tusculum College,52,21.9,59,70,Private,South,TN,420,370,19
+Vanderbilt University,83,5.8,60,93,Private,South,TN,640,559,28
+Maryville College,51,11.1,61,80,Private,South,TN,505,448,23
+Freed-Hardeman University,62,16.1,61,68,Private,South,TN,485,458,22
+Tennessee State University,41,18.6,62,72,Public,South,TN,,,
+University of Tennessee at Chattanooga,39,16.8,64,76,Public,South,TN,,,22
+Lambuth University,60,16.1,65,61,Private,South,TN,,,22
+University of Memphis,33,16.9,65,77,Public,South,TN,,,22
+Fisk University,43,12.5,67,74,Private,South,TN,456,425,21
+University of the South,82,10.3,67,89,Private,South,TN,601,557,27
+Lincoln Memorial University,53,14.6,71,67,Private,South,TN,,,23
+University of Tennessee at Knoxville,53,16.5,72,86,Public,South,TN,525,468,23
+Middle Tennessee State University,39,19.2,75,69,Public,South,TN,503,439,20
+Austin Peay State University,36,18.2,75,66,Public,South,TN,,,21
+Milligan College,64,12,76,63,Private,South,TN,,,23
+Lee College,52,18.5,77,42,Private,South,TN,460,456,21
+Bethel College,35,11.7,77,63,Private,South,TN,,,
+Bryan College,62,12.6,77,70,Private,South,TN,,,
+University of Tennessee at Martin,48,19.6,78,68,Public,South,TN,,,22
+Tennessee Wesleyan College,36,8.9,78,59,Private,South,TN,440,370,19
+Rhodes College,77,10.8,80,90,Private,South,TN,,,
+Belmont University,49,11.1,80,61,Private,South,TN,522,490,24
+East Tennessee State University,42,14,82,73,Public,South,TN,450,400,21
+King College,65,10.7,85,65,Private,South,TN,,,
+Carson-Newman College,67,13.6,87,61,Private,South,TN,,,23
+Cumberland University,37,11.3,91,55,Private,South,TN,,,
+David Lipscomb University,73,16.2,92,97,Private,South,TN,510,470,23
+Southern Coll. of Seventh-day Adventists,59,14.1,94,49,Private,South,TN,,,
+Tennessee Technological University,54,16.9,98,76,Public,South,TN,,,
+Trevecca Nazarene College,49,14,100,57,Private,South,TN,,,
+Rice University,91,8.6,19,91,Private,South,TX,,,
+Angelo State University,34,23.1,57,60,Public,South,TX,509,441,22
+Our Lady of the Lake University,37,14.9,58,56,Private,South,TX,434,407,
+University of North Texas,35,22.6,62,86,Public,South,TX,526,467,23
+Southwest Texas State University,39,21.2,62,70,Public,South,TX,482,425,21
+East Texas State University,35,21.8,65,87,Public,South,TX,467,411,21
+University of Texas at Austin,65,19.7,65,91,Public,South,TX,603,523,25
+Midwestern State University,36,21.6,70,95,Public,South,TX,,,
+Schreiner College,52,11.8,71,51,Private,South,TX,470,420,22
+McMurry University,32,11,71,57,Private,South,TX,500,408,21
+Texas A&M Univ. at College Station,69,23.1,73,89,Public,South,TX,578,491,25
+Sam Houston State University,43,27.2,73,76,Public,South,TX,,,21
+Southwestern University,67,11.3,73,83,Private,South,TX,577,526,25
+University of Texas at San Antonio,50,25.3,74,94,Public,South,TX,484,423,21
+Lamar University,26,18.4,74,48,Public,South,TX,459,413,20
+Abilene Christian University,60,18.1,74,70,Private,South,TX,,,22
+Texas College,26,18.4,74,37,Private,South,TX,330,290,16
+Texas Southern University,10,18.2,75,65,Public,South,TX,390,420,19
+University of St. Thomas,62,12.6,75,75,Private,South,TX,560,500,26
+Trinity University,93,9.6,75,94,Private,South,TX,635,575,
+Texas Christian University,64,14.8,75,81,Private,South,TX,,,
+Stephen F. Austin State University,50,21.4,76,85,Public,South,TX,467,472,21
+West Texas A&M University,34,21.9,77,70,Public,South,TX,450,440,21
+University of Texas at Arlington,29,21,78,73,Public,South,TX,506,434,21
+Texas Woman's University,35,14.3,79,67,Public,South,TX,,,
+St. Edward's University,46,15.7,80,76,Private,South,TX,483,438,22
+Incarnate Word College,95,11.4,80,67,Private,South,TX,480,441,21
+Texas Tech University,41,24.7,80,82,Public,South,TX,526,456,23
+Houston Baptist University,56,14,80,65,Private,South,TX,498,432,22
+Southern Methodist University,72,13.5,80,74,Private,South,TX,,,
+Texas A&M University at Kingsville,42,19.7,81,89,Public,South,TX,,,18
+St. Mary's University of San Antonio,72,16.2,82,82,Private,South,TX,516,454,22
+Jarvis Christian College,25,12.1,84,48,Private,South,TX,341,316,11
+Austin College,71,13,84,81,Private,South,TX,554,498,24
+Texas Wesleyan University,43,14.5,85,80,Private,South,TX,426,415,20
+Texas Lutheran College,50,13.8,85,54,Private,South,TX,498,436,22
+Wayland Baptist University,91,13.6,85,50,Private,South,TX,470,440,20
+University of Dallas,63,13.4,86,85,Private,South,TX,593,550,26
+Dallas Baptist University,87,14.4,87,48,Private,South,TX,497,435,22
+LeTourneau University,56,20.8,87,58,Private,South,TX,552,491,24
+Howard Payne University,37,12.7,88,59,Private,South,TX,458,405,20
+Baylor University,72,18.5,88,71,Private,South,TX,,,
+East Texas Baptist University,38,15.7,90,62,Private,South,TX,,,21
+Hardin-Simmons University,38,13.7,91,75,Private,South,TX,510,470,22
+Lubbock Christian University,39,11.9,91,39,Private,South,TX,,,21
+Tarleton State University,41,21.9,92,60,Public,South,TX,441,391,20
+Prairie View A. and M. University,35,19.4,93,55,Public,South,TX,377,332,17
+Concordia Lutheran College,42,12.1,93,67,Private,South,TX,469,402,20
+Southwestern Adventist College,36,13,99,44,Private,South,TX,419,395,21
+University of Houston - Downtown,8,20.6,100,75,Public,South,TX,,,
+University of Texas-Pan American,16,22.9,100,92,Public,South,TX,,,
+Brigham Young University at Provo,33,20.5,73,76,Private,West,UT,,,
+Westminster College of Salt Lake City,50,10.5,79,68,Private,West,UT,,,
+University of Utah,37,12.8,88,89,Public,West,UT,543,484,24
+Weber State University,38,23.9,95,66,Public,West,UT,,,21
+Southern Utah University,59,20.5,97,62,Public,West,UT,,,
+Washington and Lee University,90,9.6,33,81,Private,South,VA,,,
+University of Virginia,95,9.5,34,90,Public,South,VA,,,
+College of William and Mary,93,12.1,44,89,Public,South,VA,640,600,
+University of Richmond,100,11.7,46,75,Private,South,VA,,,
+James Madison University,98,17.9,47,77,Public,South,VA,586,521,
+Mary Washington College,84,17.6,50,75,Public,South,VA,,,
+Hampton University,70,14,52,60,Private,South,VA,475,442,
+Virginia Wesleyan College,68,15.7,61,70,Private,South,VA,,,
+Longwood College,62,18.4,68,74,Public,South,VA,497,455,23
+Old Dominion University,45,15.1,68,79,Public,South,VA,494,440,
+Virginia Commonwealth University,45,8.7,71,81,Public,South,VA,488,449,
+Virginia Tech,73,13.8,75,85,Public,South,VA,,,
+Randolph-Macon College,74,10.7,75,77,Private,South,VA,533,483,
+Virginia Military Institute,68,11.1,76,84,Public,South,VA,541,484,22
+Shenandoah University,59,9.2,76,60,Private,South,VA,477,438,20
+George Mason University,46,19.3,77,93,Public,South,VA,,,
+Hampden - Sydney College,69,13.3,79,95,Private,South,VA,564,517,
+Bridgewater College,82,13.2,80,68,Private,South,VA,,,
+Roanoke College,72,13,80,85,Private,South,VA,532,487,
+Virginia State University,31,16,81,61,Public,South,VA,,,
+Clinch Valley Coll. of  the Univ. of Virginia,46,18.1,81,67,Public,South,VA,449,406,
+Marymount University,55,10.6,82,77,Private,South,VA,467,440,
+Ferrum College,22,12.5,83,53,Private,South,VA,431,388,
+Hollins College,72,11.1,83,78,Private,South,VA,502,505,23
+Emory & Henry College,82,13.9,84,79,Private,South,VA,485,445,23
+Lynchburg College,70,12.4,85,62,Private,South,VA,,,
+Radford University,62,19.6,86,73,Public,South,VA,490,460,22
+Virginia Intermont College,48,12.3,86,32,Private,South,VA,427,410,19
+Christopher Newport University,48,21.2,87,80,Public,South,VA,442,404,
+Sweet Briar College,61,6.5,87,91,Private,South,VA,510,500,24
+Virginia Union University,30,13.7,87,51,Private,South,VA,343,317,
+Mary Baldwin College,90,6.8,88,66,Private,South,VA,468,461,
+Randolph-Macon Woman's College,68,9.2,89,88,Private,South,VA,517,502,25
+Averett College,48,22.4,89,59,Private,South,VA,469,424,
+Christendom College,58,9.3,89,92,Private,South,VA,568,568,23
+St. Paul's College,45,14,89,45,Private,South,VA,,,
+Eastern Mennonite College,82,11.4,91,46,Private,South,VA,,,
+Bluefield College,53,17.8,95,61,Private,South,VA,431,388,20
+Middlebury College,97,10.5,34,87,Private,NorthEast,VT,,,
+Southern Vermont College,57,13.4,39,28,Private,NorthEast,VT,,,
+Bennington College,55,10.1,63,35,Private,NorthEast,VT,551,565,
+Marlboro College,61,7.5,70,56,Private,NorthEast,VT,520,550,
+Saint Michael's College,84,14.5,72,79,Private,NorthEast,VT,524,479,
+Castleton State College,79,14.7,75,89,Public,NorthEast,VT,459,416,21
+University of Vermont,79,9.9,78,87,Public,NorthEast,VT,553,488,
+Johnson State College,36,14.4,80,80,Public,NorthEast,VT,436,412,
+Green Mountain College,76,14,81,77,Private,NorthEast,VT,440,440,
+Trinity College,78,10.4,83,58,Private,NorthEast,VT,420,410,
+College of St. Joseph,76,9.5,84,53,Private,NorthEast,VT,390,400,
+Goddard College,100,14.5,91,56,Private,NorthEast,VT,489,511,
+Norwich University,63,13.1,93,71,Private,NorthEast,VT,,,20
+Lyndon State College,51,12.6,94,48,Public,NorthEast,VT,,,
+Whitman College,72,10.5,54,80,Private,West,WA,600,550,27
+University of Washington,65,9,55,96,Public,West,WA,,,
+Evergreen State College,68,18.1,61,75,Public,West,WA,521,521,
+Heritage College,100,9.5,64,48,Private,West,WA,,,
+Western Washington University,61,22.7,64,83,Public,West,WA,530,470,24
+University of Puget Sound,63,15,70,79,Private,West,WA,581,520,26
+Central Washington University,51,18.1,72,67,Public,West,WA,,,
+Seattle University,89,12.2,73,85,Private,West,WA,525,464,24
+Gonzaga University,69,14.7,81,78,Private,West,WA,539,492,25
+Whitworth College,80,16.9,83,80,Private,West,WA,544,490,24
+Eastern Washington University,47,17,86,69,Public,West,WA,400,350,17
+Seattle Pacific University,66,16.8,86,83,Private,West,WA,498,455,
+St. Martin's College,40,14.5,86,43,Private,West,WA,480,460,19
+Pacific Lutheran University,83,11,87,78,Private,West,WA,531,474,23
+Washington State University,56,16.9,89,84,Public,West,WA,,,
+Univ. of Wisconsin at OshKosh,56,19.2,60,73,Public,Midwest,WI,,,22
+Alverno College,55,11.1,63,36,Private,Midwest,WI,,,20
+Beloit College,69,11.1,70,87,Private,Midwest,WI,575,549,26
+University of Wisconsin at Milwaukee,38,15.9,72,79,Public,Midwest,WI,,,22
+Univ. of Wisconsin at Platteville,59,20.6,73,66,Public,Midwest,WI,,,22
+University of Wisconsin at Madison,72,11.5,73,93,Public,Midwest,WI,,,
+University of Wisconsin-Stout,65,21,76,78,Public,Midwest,WI,,,21
+Lawrence University,77,10.1,76,76,Private,Midwest,WI,,,
+University of Wisconsin at Parkside,28,18.4,79,87,Public,Midwest,WI,,,20
+Univ. of Wisconsin at Eau Claire,61,19.3,79,80,Public,Midwest,WI,525,460,23
+Viterbo College,73,10.7,80,51,Private,Midwest,WI,,,22
+University of Wisconsin at Green Bay,46,22.2,81,81,Public,Midwest,WI,,,22
+Marian College of Fond du Lac,59,8.4,81,37,Private,Midwest,WI,,,20
+Concordia University Wisconsin,57,20.5,82,49,Private,Midwest,WI,,,22
+Wisconsin Lutheran College,50,8.5,84,48,Private,Midwest,WI,,,23
+University of Wisconsin-Whitewater,67,23.1,85,90,Public,Midwest,WI,,,21
+Ripon College,64,9.4,85,87,Private,Midwest,WI,557,513,24
+Carroll College,79,17.8,85,74,Private,Midwest,WI,,,22
+Carthage College,62,15.9,88,74,Private,Midwest,WI,520,460,22
+Northland College,52,15.9,88,58,Private,Midwest,WI,490,475,21
+Marquette University,77,13.5,89,86,Private,Midwest,WI,561,492,25
+Milwaukee School of Engineering,67,16.7,89,35,Private,Midwest,WI,,,25
+Lakeland College,57,17.2,91,49,Private,Midwest,WI,,,20
+Mount Mary College,78,10.7,92,51,Private,Midwest,WI,520,510,20
+St. Norbert College,88,15.1,93,74,Private,Midwest,WI,614,553,24
+University of Wisconsin-Superior,36,15.2,100,75,Public,Midwest,WI,,,21
+Fairmont State College,50,19.6,72,37,Public,South,WV,,,19
+Bethany College,59,13,78,80,Private,South,WV,479,448,23
+University of Charleston,57,2.5,78,26,Private,South,WV,505,443,21
+Salem-Teikyo University,98,13,79,46,Private,South,WV,,,22
+Bluefield State College,42,16.3,80,24,Public,South,WV,420,370,19
+Davis & Elkins College,94,12.8,80,64,Private,South,WV,437,399,19
+West Virginia University,57,13.4,81,83,Public,South,WV,507,439,22
+Shepherd College,46,16.5,83,57,Private,South,WV,481,422,24
+Wheeling Jesuit College,72,14.1,84,66,Private,South,WV,479,433,22
+Alderson-Broaddus College,52,11.5,86,40,Private,South,WV,443,394,20
+Marshall University,50,16.6,87,77,Private,South,WV,465,450,23
+West Virginia Wesleyan College,67,16.4,89,58,Private,South,WV,489,439,23
+West Liberty State College,60,16.3,91,33,Public,South,WV,,,19
+Concord College,49,19.2,98,55,Private,South,WV,,,20
+Glenville State College,65,17.3,100,25,Public,South,WV,,,19
+University of Wyoming,45,15.1,75,91,Public,West,WY,,,23

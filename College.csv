@@ -1,0 +1,196 @@
+School,GradRate,AdmisRate,Type
+University of North Carolina at Chapel Hill,0.65,0.35,Public
+University of Virginia,0.81,0.39,Public
+College of William and Mary,0.8,0.35,Public
+University of Georgia,0.46,0.65,Public
+University of Florida,0.5,0.58,Public
+New College of Florida,0.47,0.65,Public
+Georgia Institute of Technology,0.18,0.59,Public
+"University of Illinois at Urbana, Champaign",0.52,0.6,Public
+Truman State University,0.39,0.79,Public
+Virginia Polytechnic Institute and State University,0.36,0.65,Public
+North Carolina State University,0.25,0.59,Public
+University of Delaware,0.54,0.48,Public
+"University of Wisconsin, Madison",0.41,0.71,Public
+"University of Michigan, Ann Arbor",0.61,0.49,Public
+"University of California, San Diego",0.43,0.41,Public
+"University of California, Berkeley",0.48,0.25,Public
+University of Washington,0.4,0.68,Public
+New Mexico Institute of Mining and Technology,0.12,0.63,Public
+"University of Wisconsin, La Crosse",0.23,0.65,Public
+University of Texas at Austin,0.39,0.61,Public
+University of Oklahoma,0.19,0.89,Public
+University of Kansas,0.26,0.67,Public
+University of North Carolina at Asheville,0.31,0.67,Public
+State University of New York at Binghamton,0.69,0.42,Public
+Colorado School of Mines,0.31,0.67,Public
+Auburn University,0.4,0.83,Public
+Colorado State University,0.29,0.77,Public
+College of New Jersey,0.59,0.48,Public
+Michigan State University,0.31,0.67,Public
+Appalachian State University,0.31,0.64,Public
+Iowa State University of Science and Technology,0.24,0.89,Public
+State University of New York College at Geneseo,0.67,0.49,Public
+Texas A&M University,0.27,0.68,Public
+University of North Carolina at Wilmington,0.34,0.55,Public
+"University of Maryland, College Park",0.33,0.43,Public
+"University of California, Los Angeles",0.4,0.24,Public
+Louisiana State University and Agricultural and Mechanical College,0.23,0.77,Public
+University of Tennessee,0.24,0.58,Public
+University of Iowa,0.34,0.84,Public
+"Rutgers, The State University of New Jersey, New Brunswick",0.44,0.55,Public
+Clemson University,0.35,0.52,Public
+University of Colorado at Boulder,0.38,0.8,Public
+University of Arkansas,0.2,0.86,Public
+Mary Washington College,0.65,0.6,Public
+Oklahoma State University,0.22,0.92,Public
+Kansas State University,0.18,0.58,Public
+University of Northern Iowa,0.3,0.8,Public
+University of Mississippi,0.29,0.8,Public
+James Madison University,0.59,0.58,Public
+"University of California, Davis",0.28,0.63,Public
+Miami University,0.61,0.77,Public
+Purdue University,0.28,0.76,Public
+Mississippi State University,0.19,0.74,Public
+"University of Nebraska, Lincoln",0.15,0.9,Public
+Florida State University,0.38,0.7,Public
+"University of California, Irvine",0.34,0.57,Public
+"University of Missouri, Columbia",0.32,0.88,Public
+"University of Minnesota, Morris",0.5,0.82,Public
+University of Alabama,0.31,0.85,Public
+University of South Carolina,0.31,0.7,Public
+St. Mary's College of Maryland,0.58,0.59,Public
+Michigan Technological University,0.22,0.92,Public
+Mississippi University for Women,0.21,0.65,Public
+"California Polytechnic State University, San Luis Obispo",0.17,0.39,Public
+University of Wyoming,0.22,0.95,Public
+George Mason University,0.25,0.66,Public
+University of Central Florida,0.25,0.62,Public
+Ohio State University,0.25,0.74,Public
+Illinois State University,0.28,0.81,Public
+"University at Buffalo, The State University of New York",0.32,0.61,Public
+Salisbury University,0.5,0.5,Public
+University of Massachusetts Amherst,0.41,0.58,Public
+University of Vermont,0.48,0.71,Public
+College of Charleston,0.32,0.6,Public
+Indiana University Bloomington,0.4,0.81,Public
+Pennsylvania State University University Park Campus,0.43,0.57,Public
+State University of New York at Albany,0.52,0.56,Public
+University of Arizona,0.29,0.86,Public
+Towson University,0.3,0.58,Public
+"Rutgers, The State University of New Jersey, Camden",0.21,0.54,Public
+"University of Maryland, Baltimore County",0.28,0.63,Public
+University of Connecticut,0.23,0.62,Public
+University of Pittsburgh,0.35,0.55,Public
+State University of New York College at Fredonia,0.47,0.53,Public
+"Stony Brook University, State University of New York",0.3,0.54,Public
+State University of New York at New Paltz,0.21,0.4,Public
+University of Maine,0.29,0.79,Public
+University of New Hampshire,0.48,0.77,Public
+"University of Missouri, Rolla",0.1,0.92,Public
+"University of California, Santa Cruz",0.4,0.8,Public
+University of Illinois at Chicago,0.09,0.63,Public
+University of Oregon,0.36,0.86,Public
+Texas Tech University,0.22,0.69,Public
+Ohio University,0.43,0.75,Public
+UC Riverside,0.39,0.86,Public
+California Institute of Technology,0.71,0.21,Private
+Rice University,0.68,0.24,Private
+Williams College,0.89,0.23,Private
+Swarthmore College,0.86,0.24,Private
+Amherst College,0.84,0.18,Private
+Webb Institute,0.79,0.42,Private
+Yale University,0.88,0.08,Private
+Washington and Lee University,0.86,0.31,Private
+Harvard University,0.86,0.11,Private
+Stanford University,0.77,0.13,Private
+Princeton University,0.91,0.11,Private
+Massachusetts Institute of Technology,0.82,0.16,Private
+Pomona College,0.83,0.23,Private
+Emory University,0.82,0.42,Private
+Columbia University,0.83,0.12,Private
+Duke University,0.88,0.25,Private
+Davidson College,0.89,0.34,Private
+Wellesley College,0.84,0.47,Private
+Vassar College,0.81,0.31,Private
+Haverford College,0.89,0.32,Private
+Northwestern University,0.83,0.33,Private
+Bowdoin College,0.83,0.25,Private
+University of Pennsylvania,0.83,0.21,Private
+Johns Hopkins University,0.81,0.35,Private
+Cooper Union,0.57,0.14,Private
+Washington University,0.75,0.24,Private
+Dartmouth College,0.87,0.23,Private
+Claremont McKenna College,0.82,0.28,Private
+University of Notre Dame,0.88,0.34,Private
+Colgate University,0.85,0.34,Private
+The Colorado College,0.72,0.53,Private
+University of Richmond,0.79,0.41,Private
+Georgetown University,0.86,0.21,Private
+Brown University,0.79,0.17,Private
+Carleton College,0.82,0.35,Private
+Lafayette College,0.79,0.36,Private
+Middlebury College,0.81,0.27,Private
+Grinnell College,0.78,0.65,Private
+Illinois Wesleyan University,0.76,0.48,Private
+Bates College,0.82,0.28,Private
+Cornell University,0.82,0.29,Private
+Wesleyan University,0.76,0.28,Private
+Colby College,0.85,0.33,Private
+Bucknell University,0.83,0.39,Private
+Kenyon College,0.8,0.52,Private
+Centre College,0.71,0.78,Private
+Rhodes College,0.71,0.7,Private
+Macalester College,0.71,0.44,Private
+Barnard College,0.72,0.34,Private
+Brandeis University,0.79,0.42,Private
+College of the Holy Cross,0.88,0.43,Private
+Harvey Mudd College,0.75,0.37,Private
+Wake Forest University,0.77,0.41,Private
+Bryn Mawr College,0.76,0.5,Private
+Wheaton College,0.7,0.54,Private
+Tufts University,0.81,0.27,Private
+Oberlin College,0.63,0.33,Private
+Mount Holyoke College,0.75,0.52,Private
+Furman University,0.74,0.58,Private
+St. Olaf College,0.71,0.73,Private
+Brigham Young University,0.31,0.73,Private
+Lehigh University,0.7,0.44,Private
+Smith College,0.76,0.53,Private
+Beloit College,0.6,0.7,Private
+Taylor University,0.71,0.78,Private
+Union College,0.75,0.45,Private
+Hamilton College,0.79,0.35,Private
+DePauw University,0.75,0.61,Private
+Hillsdale College,0.53,0.82,Private
+Knox College,0.67,0.72,Private
+University of Southern California,0.51,0.3,Private
+Trinity College,0.77,0.36,Private
+Trinity University,0.65,0.69,Private
+Gustavus Adolphus College,0.72,0.77,Private
+Vanderbilt University,0.78,0.46,Private
+Whitman College,0.6,0.5,Private
+Scripps College,0.63,0.58,Private
+Franklin and Marshall College,0.78,0.62,Private
+Saint Louis University,0.52,0.72,Private
+Carnegie Mellon University,0.61,0.38,Private
+Lawrence University,0.58,0.68,Private
+Connecticut College,0.75,0.35,Private
+Case Western Reserve University,0.49,0.78,Private
+Dickinson College,0.74,0.51,Private
+Kalamazoo College,0.6,0.73,Private
+Saint John's University,0.67,0.87,Private
+Boston College,0,0.34,Private
+Reed College,0.45,0.55,Private
+Bard College,0.59,0.36,Private
+University of Rochester,0.65,0.5,Private
+New York University,0.65,0.28,Private
+Villanova University,0.79,0.47,Private
+Skidmore College,0.71,0.46,Private
+Rose-Hulman Institute of Technology,0.58,0.65,Private
+St. John's College,0.63,0.71,Private
+Babson College,0.77,0.48,Private
+Rhode Island School of Design,0,0.32,Private
+Rensselaer Polytechnic Institute,0.48,0.7,Private
+Sarah Lawrence College,0.51,0.4,Private
+The George Washington University,0.62,0.4,Private
