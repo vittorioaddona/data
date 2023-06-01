@@ -1,0 +1,51 @@
+State,Abr,Income,IncomeCat,HS,BA,Adv,Dem.Rep,TrumpWin,WhoWon
+Alabama ,AL,43623,BelowAvg,84.3,23.5,8.7,-17,1,Trump
+Alaska ,AK,72515,AboveAvg,92.1,28,10.1,-17,1,Trump
+Arizona ,AZ,50255,BelowAvg,86,27.5,10.2,-1,1,Trump
+Arkansas ,AR,41371,BelowAvg,84.8,21.1,7.5,-7,1,Trump
+California ,CA,61818,AboveAvg,81.8,31.4,11.6,16,0,Clinton
+Colorado ,CO,60629,AboveAvg,90.7,38.1,14,-1,0,Clinton
+Connecticut ,CT,70331,AboveAvg,89.9,37.6,16.6,11,0,Clinton
+Delaware ,DE,60509,AboveAvg,88.4,30,12.2,6,0,Clinton
+Florida ,FL,47507,BelowAvg,86.9,27.3,9.8,1,1,Trump
+Georgia ,GA,49620,BelowAvg,85.4,28.8,10.7,-4,1,Trump
+Hawaii ,HI,69515,AboveAvg,91,30.8,10.5,21,0,Clinton
+Idaho ,ID,47583,BelowAvg,89.5,25.9,8.2,-30,1,Trump
+Illinois ,IL,57574,AboveAvg,87.9,32.3,12.4,11,0,Clinton
+Indiana ,IN,49255,BelowAvg,87.8,24.1,8.7,-6,1,Trump
+Iowa ,IA,53183,BelowAvg,91.5,26.7,8.5,-3,1,Trump
+Kansas ,KS,52205,BelowAvg,90.2,31,11,-13,1,Trump
+Kentucky ,KY,43740,BelowAvg,84.2,22.3,9.2,-3,1,Trump
+Louisiana ,LA,45047,BelowAvg,83.4,22.5,7.7,-2,1,Trump
+Maine ,ME,49331,BelowAvg,91.6,29,10.3,-4,0,Clinton
+Maryland ,MD,74551,AboveAvg,89.4,37.9,17.3,15,0,Clinton
+Massachusetts ,MA,68563,AboveAvg,89.8,40.5,17.7,19,0,Clinton
+Michigan ,MI,49576,BelowAvg,89.6,26.9,10.5,4,1,Trump
+Minnesota ,MN,61492,AboveAvg,92.4,33.7,11.2,1,0,Clinton
+Mississippi ,MS,39665,BelowAvg,82.3,20.7,7.7,-5,1,Trump
+Missouri ,MO,48173,BelowAvg,88.4,27.1,10.2,-8,1,Trump
+Montana ,MT,47169,BelowAvg,92.8,29.5,9.5,-14,1,Trump
+Nebraska ,NE,52997,BelowAvg,90.7,29.3,9.7,-9,1,Trump
+Nevada ,NV,51847,BelowAvg,85.1,23,7.9,-4,0,Clinton
+New Hampshire ,NH,66779,AboveAvg,92.3,34.9,13,-9,0,Clinton
+New Jersey ,NJ,72093,AboveAvg,88.6,36.8,14,10,0,Clinton
+New Mexico ,NM,44963,BelowAvg,84.2,26.3,11.5,12,0,Clinton
+New York ,NY,59269,AboveAvg,85.6,34.2,14.8,18,0,Clinton
+North Carolina ,NC,46868,BelowAvg,85.8,28.4,9.9,0,1,Trump
+North Dakota ,ND,57181,AboveAvg,91.7,27.7,7.6,-21,1,Trump
+Ohio ,OH,49429,BelowAvg,89.1,26.1,9.7,0,1,Trump
+Oklahoma ,OK,46879,BelowAvg,86.9,24.1,8,-13,1,Trump
+Oregon ,OR,51243,BelowAvg,89.8,30.8,11.5,6,0,Clinton
+Pennsylvania ,PA,53599,BelowAvg,89.2,28.6,11.2,3,1,Trump
+Rhode Island ,RI,56852,AboveAvg,86.2,31.9,12.8,19,0,Clinton
+South Carolina ,SC,45483,BelowAvg,85.6,25.8,9.3,-13,1,Trump
+South Dakota ,SD,50957,BelowAvg,90.9,27,8,-16,1,Trump
+Tennessee ,TN,45219,BelowAvg,85.5,24.9,9,-10,1,Trump
+Texas ,TX,53207,BelowAvg,81.9,27.6,9.4,-6,1,Trump
+Utah ,UT,60727,AboveAvg,91.2,31.1,10.4,-30,1,Trump
+Vermont ,VT,55176,AboveAvg,91.8,36,14.3,22,0,Clinton
+Virginia ,VA,65015,AboveAvg,88.3,36.3,15.4,-2,0,Clinton
+Washington ,WA,61062,AboveAvg,90.4,32.9,12,9,0,Clinton
+West Virginia ,WV,41751,BelowAvg,85,19.2,7.4,-6,1,Trump
+Wisconsin ,WI,53357,BelowAvg,91,27.8,9.4,-1,1,Trump
+Wyoming ,WY,58840,AboveAvg,92.3,25.7,8.6,-32,1,Trump
