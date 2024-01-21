@@ -1,31 +1,32 @@
-"Timestamp","sleep_time","coffee","major","gradyear","statscourses","Rbefore","excitement","birthday","emails","major == str_trim(major)"
-"1/19/2024 14:58:27",8,1,"Economics",2027,0,"No, never",7,"During this semester",17,TRUE
-"1/19/2024 14:58:46",9,0,"Computer Science",2026,0,"Yes, a lot",8,"Not during this semester",0,TRUE
-"1/19/2024 14:58:47",7.5,2,"Geology",2025,0,"No, never",10,"Not during this semester",517,TRUE
-"1/19/2024 14:58:53",7,2,"Computer Science",2027,0,"No, never",8,"Not during this semester",0,TRUE
-"1/19/2024 14:59:15",8,0,"Biology",2026,0,"Yes, a little",6,"Not during this semester",2,TRUE
-"1/19/2024 14:59:18",8,1,"Geology",2027,1,"No, never",8,"Not during this semester",31,TRUE
-"1/19/2024 14:59:23",6,0,"Economics",2025,0,"Yes, a little",5,"Not during this semester",1,TRUE
-"1/19/2024 14:59:30",7.5,0,"Computer Science",2025,2,"No, never",10,"Not during this semester",12,TRUE
-"1/19/2024 14:59:33",7,1,"Neuroscience",2027,0,"No, never",5,"Not during this semester",0,TRUE
-"1/19/2024 14:59:33",5,0,"Biology",2026,0,"No, never",7,"During this semester",1983,TRUE
-"1/19/2024 14:59:33",7,0,"Environmental Studies",2026,1,"Yes, a little",5,"Not during this semester",3,TRUE
-"1/19/2024 14:59:35",10.5,0,"Chemistry",2025,0,"No, never",6,"During this semester",4,TRUE
-"1/19/2024 14:59:36",9,0,"Biology",2025,0,"No, never",2,"Not during this semester",0,TRUE
-"1/19/2024 14:59:42",8,0,"Economics",2026,0,"No, never",6,"Not during this semester",12991,TRUE
-"1/19/2024 14:59:46",8,0,"Chemistry",2025,0,"Yes, a little",8,"During this semester",0,TRUE
-"1/19/2024 15:00:01",9,0,"Biology",2026,0,"Yes, a little",5,"During this semester",0,TRUE
-"1/19/2024 15:00:03",6,0,"Neuroscience",2027,1,"No, never",6,"Not during this semester",2,FALSE
-"1/19/2024 15:00:04",8.5,0,"Math",2026,1,"Yes, a lot",7,"Not during this semester",30,TRUE
-"1/19/2024 15:00:09",8,2,"Economics",2027,1,"No, never",7,"Not during this semester",659,TRUE
-"1/19/2024 15:00:09",8,0,"Data Science",2026,1,"Yes, a lot",7,"Not during this semester",3334,TRUE
-"1/19/2024 15:00:11",7,0,"Computer Science",2026,1,"Yes, a lot",7,"Not during this semester",578,TRUE
-"1/19/2024 15:00:15",8,0,"Biology",2026,0,"No, never",8,"During this semester",1381,TRUE
-"1/19/2024 15:00:17",6.5,1,"Economics",2026,0,"No, never",5,"Not during this semester",1546,TRUE
-"1/19/2024 15:00:17",8,1,"Economics",2026,0,"Yes, a little",5,"Not during this semester",1085,TRUE
-"1/19/2024 15:00:20",8,0,"Environmental Studies",2026,1,"Yes, a little",7,"Not during this semester",5,TRUE
-"1/19/2024 15:00:21",7,0,"Geography? Data Science?",2027,1,"Yes, a little",10,"Not during this semester",376,TRUE
-"1/19/2024 15:01:43",7,0,"Statistics",2027,1,"Yes, a little",7,"Not during this semester",0,TRUE
-"1/19/2024 15:04:27",7,0,"Physics",2025,0,"Yes, a lot",7,"During this semester",30,TRUE
-"1/19/2024 15:04:40",9,1,"Statistics",2027,1,"Yes, a little",10,"During this semester",1139,TRUE
-"1/19/2024 15:05:13",13,0.5,"Economics",2027,0,"No, never",9,"During this semester",1831,TRUE
+Timestamp,sleep_time,coffee,major,gradyear,statscourses,Rbefore,excitement,birthday,emails,major == str_trim(major)
+1/19/24 14:58,8,1,Economics,2027,0,"No, never",7,During this semester,17,TRUE
+1/19/24 14:58,9,0,Computer Science,2026,0,"Yes, a lot",8,Not during this semester,0,TRUE
+1/19/24 14:58,7.5,2,Geology,2025,0,"No, never",10,Not during this semester,517,TRUE
+1/19/24 14:58,7,2,Computer Science,2027,0,"No, never",8,Not during this semester,0,TRUE
+1/19/24 14:59,8,0,Biology,2026,0,"Yes, a little",6,Not during this semester,2,TRUE
+1/19/24 14:59,8,1,Geology,2027,1,"No, never",8,Not during this semester,31,TRUE
+1/19/24 14:59,6,0,Economics,2025,0,"Yes, a little",5,Not during this semester,1,TRUE
+1/19/24 14:59,7.5,0,Computer Science,2025,2,"No, never",10,Not during this semester,12,TRUE
+1/19/24 14:59,7,1,Neuroscience,2027,0,"No, never",5,Not during this semester,0,TRUE
+1/19/24 14:59,5,0,Biology,2026,0,"No, never",7,During this semester,1983,TRUE
+1/19/24 14:59,7,0,Environmental Studies,2026,1,"Yes, a little",5,Not during this semester,3,TRUE
+1/19/24 14:59,10.5,0,Chemistry,2025,0,"No, never",6,During this semester,4,TRUE
+1/19/24 14:59,9,0,Biology,2025,0,"No, never",2,Not during this semester,0,TRUE
+1/19/24 14:59,8,0,Economics,2026,0,"No, never",6,Not during this semester,12991,TRUE
+1/19/24 14:59,8,0,Chemistry,2025,0,"Yes, a little",8,During this semester,0,TRUE
+1/19/24 15:00,9,0,Biology,2026,0,"Yes, a little",5,During this semester,0,TRUE
+1/19/24 15:00,6,0,Neuroscience,2027,1,"No, never",6,Not during this semester,2,FALSE
+1/19/24 15:00,8.5,0,Math,2026,1,"Yes, a lot",7,Not during this semester,30,TRUE
+1/19/24 15:00,8,2,Economics,2027,1,"No, never",7,Not during this semester,659,TRUE
+1/19/24 15:00,8,0,Data Science,2026,1,"Yes, a lot",7,Not during this semester,3334,TRUE
+1/19/24 15:00,7,0,Computer Science,2026,1,"Yes, a lot",7,Not during this semester,578,TRUE
+1/19/24 15:00,8,0,Biology,2026,0,"No, never",8,During this semester,1381,TRUE
+1/19/24 15:00,6.5,1,Economics,2026,0,"No, never",5,Not during this semester,1546,TRUE
+1/19/24 15:00,8,1,Economics,2026,0,"Yes, a little",5,Not during this semester,1085,TRUE
+1/19/24 15:00,8,0,Environmental Studies,2026,1,"Yes, a little",7,Not during this semester,5,TRUE
+1/19/24 15:00,7,0,Geography? Data Science?,2027,1,"Yes, a little",10,Not during this semester,376,TRUE
+1/19/24 15:01,7,0,Statistics,2027,1,"Yes, a little",7,Not during this semester,0,TRUE
+1/19/24 15:04,7,0,Physics,2025,0,"Yes, a lot",7,During this semester,30,TRUE
+1/19/24 15:04,9,1,Statistics,2027,1,"Yes, a little",10,During this semester,1139,TRUE
+1/19/24 15:05,13,0.5,Economics,2027,0,"No, never",9,During this semester,1831,TRUE
+NA,8,0,Biostatistics,2018,20,"Yes, a lot",10,During this semester,13,TRUE
