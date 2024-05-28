@@ -1,1 +1,3 @@
 Hi, the big horse is blue. It is a mammal. It runs fast. It eats hay. It looks pretty.
+
+This is the second line of text.
